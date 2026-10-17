@@ -22,7 +22,7 @@ export default defineConfig({
         test: {
           name: "node",
           environment: "node",
-          include: ["src/batch/**/*.test.ts", "src/shared/**/*.test.ts"],
+          include: ["src/batch/**/*.test.ts", "src/shared/**/*.test.ts", "tools/**/*.test.mjs"],
         },
       },
     ],
