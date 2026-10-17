@@ -1,0 +1,4 @@
+# Claude Code の Grep（ripgrep）で、リポジトリ全体や docs/ を検索したときに、過去の docs/changes/ の中身を結果に出さない（AGENTS.md「読むもの・読まないもの」）
+# 人間が rg で docs/changes/ も検索したいときは --no-ignore を付ける
+/docs/changes/*
+!/docs/changes/_template.md

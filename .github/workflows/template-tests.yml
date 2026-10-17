@@ -1,0 +1,22 @@
+# フック（guard.mjs、pre-push）のテストを、PR ごとに走らせる。テンプレートのリポジトリだけで使う（docs/template-files.md）
+# 走らせ方と、Ubuntu と Windows の両方で走らせる理由は docs/template-notes/guards.md
+name: template-tests
+
+on: pull_request
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: node --test ".github/template-tests/*.test.mjs"

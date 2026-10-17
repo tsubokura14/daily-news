@@ -1,0 +1,22 @@
+# 環境変数・秘密情報
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# 依存・ビルド成果物（技術に合わせて書き足す）
+node_modules/
+dist/
+build/
+coverage/
+
+# OS・エディタ
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Claude Code の個人設定
+.claude/settings.local.json

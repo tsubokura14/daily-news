@@ -1,0 +1,51 @@
+#!/bin/sh
+# main への push、リモートのブランチを書き換える push（force push）、秘密情報を含むコミットの push を断る（scripts/link-template.sh で有効にする）
+# push の書き方（-u、HEAD:main、上流ブランチへの git push など）に関係なく、送り先が main なら止める
+# 秘密情報は、マージしなくても push した時点で GitHub に残る。GitHub の push protection は非公開リポジトリでは有料なので、手元でも止める
+# 見るのは、形で見分けられるもの（.env のファイルと、決まった形のトークン）だけ。パスワードのような形の決まらない文字列は、誤検知が多いので見ない
+
+# 秘密鍵と、GitHub・Anthropic・OpenAI・AWS・Slack・Stripe のトークン
+secret='-----BEGIN [A-Z ]*PRIVATE KEY-----|gh[pousr]_[A-Za-z0-9]{36}|github_pat_[A-Za-z0-9_]{22,}|sk-ant-[A-Za-z0-9_-]{20,}|sk-proj-[A-Za-z0-9_-]{20,}|AKIA[0-9A-Z]{16}|xox[abposr]-[A-Za-z0-9-]{10,}|sk_live_[A-Za-z0-9]{20,}'
+
+found=""
+while read -r local_ref local_sha remote_ref remote_sha; do
+  if [ "$remote_ref" = "refs/heads/main" ]; then
+    echo "main には直接 push しません。ブランチを作って PR を出してください。" >&2
+    exit 1
+  fi
+  # ブランチを消す push は、送るコミットがない
+  case "$local_sha" in *[!0]*) ;; *) continue ;; esac
+  # リモートのブランチを書き換える push（force push）を断る。-f、--force、refspec の + など、書き方に関係なく止める
+  # 新しいブランチは、書き換えるものがない。リモートのコミットが手元になければ、祖先かどうか確かめられないので止める
+  case "$remote_sha" in
+    *[!0]*)
+      if ! git merge-base --is-ancestor "$remote_sha" "$local_sha" 2>/dev/null; then
+        echo "リモートのブランチ（$remote_ref）を書き換える push（force push）はしません。リモートが先に進んでいるなら、pull してから push してください。" >&2
+        exit 1
+      fi
+      ;;
+  esac
+  # 送るコミット（まだどのリモートにもないもの）で足した・変えたファイルを、1つずつ見る
+  # リネームとして扱うと AM から外れて見逃すので、--no-renames で「削除＋追加」として見る
+  hits="$(git -c core.quotePath=false log --no-renames --format= --name-only --diff-filter=AM "$local_sha" --not --remotes | sort -u | while IFS= read -r f; do
+    [ -z "$f" ] && continue
+    case "$f" in
+      *.example | *.sample | *.template) ;;
+      .env | .env.* | */.env | */.env.*) echo "$f"; continue ;;
+    esac
+    if git log --no-renames -p --format= "$local_sha" --not --remotes -- "$f" | grep -E '^\+' | grep -qE -e "$secret"; then
+      echo "$f"
+    fi
+  done)"
+  [ -n "$hits" ] && found="$found$hits
+"
+done
+
+if [ -n "$found" ]; then
+  # 中身は出さない（AIの会話に秘密情報を入れないため）。ファイル名だけを出す
+  echo "秘密情報らしいもの（.env のファイルか、トークンの形の文字列）を含むコミットがあるので、push しません。" >&2
+  printf '%s' "$found" | sed 's/^/  /' >&2
+  echo "コミットから取り除いてから push してください。誤検知なら、人間が中身を確かめてから push します（AIは止まって伝える）。" >&2
+  exit 1
+fi
+exit 0
