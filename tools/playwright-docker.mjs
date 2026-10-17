@@ -26,9 +26,7 @@ const playwright = [
   "npx playwright test --project=screens",
   // 比べるだけのときは、基準がなくても書かずに失敗させる
   mode === "update" ? "--update-snapshots=all" : "--update-snapshots=none",
-]
-  .filter(Boolean)
-  .join(" ");
+].join(" ");
 
 const script = [
   "set -e",

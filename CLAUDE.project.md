@@ -24,7 +24,7 @@ AGENTS.md と CLAUDE.md はテンプレートのものなので、このプロ�
 | ブラウザの操作のテスト（Playwright。画面の画像は除く） | `npm run test:e2e` |
 | 画面を撮って、`docs/specs/screens/` の基準と比べる（Docker が要る） | `npm run test:screens` |
 | 画面の基準を撮り直す（Docker が要る） | `npm run test:screens:update` |
-| 撮るときのポートを変える | 環境変数 `PORT`（例：`PORT=5299 npm run test:screens`。既定は 5173） |
+| 撮るときのポートを変える | 環境変数 `PORT`（既定は 5173）。PowerShell：`$env:PORT=5299; npm run test:screens`、bash：`PORT=5299 npm run test:screens` |
 | Lint と整形の確認 | `npm run lint`（直すなら `npm run lint:fix`） |
 | 型チェック | `npm run typecheck` |
 | build | `npm run build` |

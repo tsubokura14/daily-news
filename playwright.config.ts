@@ -8,7 +8,7 @@ export default defineConfig({
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
   reporter: process.env.CI ? [["html", { open: "never" }], ["list"]] : "list",
-  // 画面の画像は、OS 名を入れずに docs/specs/screens/ に置く（撮るのは Docker の中だけ）
+  // 画面の画像は、OS 名を入れずに docs/specs/screens/ に置く（撮り方と理由は tools/playwright-docker.mjs）
   snapshotPathTemplate: "docs/specs/screens/{arg}{ext}",
   use: {
     baseURL: `http://localhost:${port}`,
