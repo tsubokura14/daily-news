@@ -1,8 +1,13 @@
+<!--
+このプロジェクトだけのAIへのルール。Claude Code は CLAUDE.md から @ で読み込み、GitHub Copilot は AGENTS.md の指示で読む。
+AGENTS.md と CLAUDE.md はテンプレートのものなので、このプロジェクトで決まりを足すときはこのファイルに書く（docs/template-files.md）
+-->
+
 # このプロジェクトのルール
 
 ## 技術
 
-- TypeScript 6.0 系、Node 24、npm
+- TypeScript 6.0 系、npm
 - 表示ページ：Vite 8 + React 19（`index.html`、`src/web/`）
 - テスト：Vitest 5（表示ページは jsdom と Testing Library、スクリプトは node）、Playwright 1.64（`e2e/`）
 - 整形・Lint：Biome 2（`biome.jsonc`）
@@ -22,3 +27,7 @@
 | build | `npm run build` |
 
 ## うまくいかなかったことから追加したルール
+
+<!-- 同じ注意を2回しないために、日付つきで書き足す。使わなくなったら消してよい。例：
+- 2026-09-17: 日付の比較は、時刻を切り捨ててから行う
+-->
