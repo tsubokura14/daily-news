@@ -1,3 +1,14 @@
 # シェルスクリプトは、Windows で取り出しても改行を LF のままにする（CRLF だと動かないため）
 *.sh text eol=lf
 .githooks/* text eol=lf
+
+# Biome が整形・Lint するファイルは、Windows で取り出しても LF のままにする（Biome は LF で書き、CI は Linux で確かめるため）
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.jsonc text eol=lf
+*.css text eol=lf
+*.html text eol=lf
