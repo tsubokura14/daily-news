@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "./tokens.css";
+
+/*
+ * 書体は Google Fonts から取らず、Fontsource で同梱する。
+ * 理由：画面を撮るとき外の通信が要らず、Docker の中でも毎回同じ画像になる。
+ *       Google Fonts だと、撮るたびに外へ取りに行き、遅いときや書体が更新されたときに、
+ *       画像を比べるテストが偶然失敗する。
+ * Fraunces は、題字の角を丸くする軸（SOFT）を含む soft.css を読む
+ */
+@import "@fontsource-variable/noto-sans-jp/wght.css";
+@import "@fontsource-variable/noto-serif-jp/wght.css";
+@import "@fontsource-variable/fraunces/soft.css";
+
+body {
+  @apply bg-bg font-sans text-ink;
+}
