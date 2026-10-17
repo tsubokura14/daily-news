@@ -2,10 +2,10 @@
 @theme {
   --color-*: initial;
   --font-*: initial;
-  --font-serif: "Noto Serif JP", "Yu Mincho", serif;
-  --font-sans: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
+  --font-serif: "Noto Serif JP Variable", "Yu Mincho", serif;
+  --font-sans: "Noto Sans JP Variable", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
   /* アプリ名だけに使う書体。角を丸くする軸（SOFT）を最大にして、紙と墨の温かさに合わせる */
-  --font-brand: "Fraunces", "Noto Serif JP", serif;
+  --font-brand: "Fraunces Variable", "Noto Serif JP Variable", serif;
   --font-brand--font-variation-settings: "SOFT" 100;
   --font-mono: ui-monospace, "SFMono-Regular", Consolas, monospace;
 
@@ -25,4 +25,6 @@
   --color-notice-bg: light-dark(#f3e6c4, #3a3220);
   --color-notice-ink: light-dark(#5c4510, #e9d39a);
 }
-:root { color-scheme: light dark; }
+:root {
+  color-scheme: light dark;
+}

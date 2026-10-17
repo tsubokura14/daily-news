@@ -27,6 +27,12 @@
       "quoteStyle": "double"
     }
   },
+  "css": {
+    "parser": {
+      // Tailwind の @theme、@apply などを読めるようにする
+      "tailwindDirectives": true
+    }
+  },
   "assist": {
     "enabled": true,
     "actions": {
