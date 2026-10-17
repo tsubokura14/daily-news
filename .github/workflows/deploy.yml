@@ -1,0 +1,44 @@
+# 表示ページを build して、GitHub Pages に出す。
+# 毎朝の取得のワークフロー（あとの Issue）は、取得して data/ をコミットしたあと、このワークフローを uses: で呼ぶ。
+# GITHUB_TOKEN での push では、別のワークフロー（この push の起動）が動かないため。
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 出し直しが重なったら、あとのものを待たせる（出している最中は止めない）
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      # Pages には、どの URL でも index.html を返す設定がない。
+      # 知らない URL（例：直接開いた /daily-news/saved）には 404.html が返るので、同じ中身を置いて、画面を出せるようにする
+      - run: cp dist/index.html dist/404.html
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -2,6 +2,8 @@ import { defineConfig, devices } from "@playwright/test";
 
 // 撮るときに立ち上げるサーバーのポート。複数のフォルダで並べて動かすときは、環境変数 PORT で変える
 const port = Number(process.env.PORT ?? 5173);
+// 公開の URL に合わせて、サーバーはリポジトリ名の下（vite.config.ts の base）で動く。末尾の / は、goto("./") で正しくたどるために要る
+const origin = `http://localhost:${port}/daily-news/`;
 
 export default defineConfig({
   testDir: "e2e",
@@ -11,7 +13,7 @@ export default defineConfig({
   // 画面の画像は、OS 名を入れずに docs/specs/screens/ に置く（撮り方と理由は tools/playwright-docker.mjs）
   snapshotPathTemplate: "docs/specs/screens/{arg}{ext}",
   use: {
-    baseURL: `http://localhost:${port}`,
+    baseURL: origin,
     trace: "on-first-retry",
   },
   projects: [
@@ -30,7 +32,7 @@ export default defineConfig({
   ],
   webServer: {
     command: `npm run dev -- --port ${port} --strictPort`,
-    url: `http://localhost:${port}`,
+    url: origin,
     reuseExistingServer: !process.env.CI,
   },
 });

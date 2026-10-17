@@ -3,6 +3,8 @@ import react from "@vitejs/plugin-react";
 import { defineConfig } from "vitest/config";
 
 export default defineConfig({
+  // GitHub Pages の https://tsubokura14.github.io/daily-news/ に出すため、リポジトリ名の下に置く
+  base: "/daily-news/",
   plugins: [react(), tailwindcss()],
   test: {
     // 機能を作る前でも、テストのコマンドが失敗で終わらないようにする
