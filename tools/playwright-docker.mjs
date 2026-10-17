@@ -63,7 +63,9 @@ const args = [
 
 const result = spawnSync("docker", args, { stdio: "inherit" });
 if (result.error) {
-  console.error(`docker を動かせませんでした。Docker Desktop を起動してください：${result.error.message}`);
+  console.error(
+    `docker を動かせませんでした。Docker Desktop を起動してください：${result.error.message}`,
+  );
   process.exit(1);
 }
 process.exit(result.status ?? 1);
