@@ -1,0 +1,40 @@
+# PR ごとに、テスト・Lint・型チェック・画像を比べるテストを走らせる
+name: ci
+
+on: pull_request
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npx biome ci
+      - run: npm run typecheck
+      - run: npm test
+
+  e2e:
+    runs-on: ubuntu-latest
+    # 画像は、手元の npm run test:screens（tools/playwright-docker.mjs）と同じイメージの中で比べる。
+    # イメージの版は、入れた Playwright（package.json）と tools/playwright-docker.mjs の IMAGE と同じにする
+    container: mcr.microsoft.com/playwright:v1.64.1-noble
+    steps:
+      - uses: actions/checkout@v7
+      - run: npm ci
+      # 操作のテストと画像を比べるテストの、すべてを動かす。
+      # 基準の画像は更新しない。none にしないと、基準がないときに Playwright が黙って書いて通ってしまう
+      - run: npx playwright test --update-snapshots=none
+      - uses: actions/upload-artifact@v7
+        if: failure()
+        with:
+          name: playwright-report
+          path: |
+            playwright-report/
+            test-results/
