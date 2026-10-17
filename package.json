@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "test:e2e": "playwright test --pass-with-no-tests",
+    "test:e2e": "playwright test --project=mobile --pass-with-no-tests",
+    "test:screens": "node tools/playwright-docker.mjs",
+    "test:screens:update": "node tools/playwright-docker.mjs update",
     "lint": "biome check",
     "lint:fix": "biome check --write",
     "typecheck": "tsc -b"
