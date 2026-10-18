@@ -1,0 +1,60 @@
+# 毎朝、記事を取って要約し、data/ をコミットして、表示ページを出し直す。
+# 取得が失敗しても（main.ts が 1 で終わっても）、失敗した日の印が data/ に書かれるので、コミットと出し直しまで進める。
+# 失敗は、最後のジョブで知らせる。
+name: daily
+
+on:
+  schedule:
+    # JST 7:00
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      outcome: ${{ steps.batch.outcome }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - id: batch
+        run: node src/batch/main.ts
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      - name: data/ をコミットして push する
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "data/ に変更なし"
+          else
+            git commit -m "$(TZ=Asia/Tokyo date +%Y-%m-%d) の一覧を取得する"
+            git push
+          fi
+
+  # GITHUB_TOKEN での push では、deploy.yml の push の起動が動かないため、ここで呼ぶ
+  deploy:
+    needs: fetch
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml
+
+  result:
+    needs: [fetch, deploy]
+    if: needs.fetch.outputs.outcome == 'failure'
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "::error::取得が失敗しました。fetch ジョブのログを見てください"
+          exit 1
