@@ -3,7 +3,7 @@ import { isBiomeTarget } from "./format-on-edit.mjs";
 
 describe("isBiomeTarget", () => {
   it("Biome が扱う種類なら true", () => {
-    expect(isBiomeTarget("C:worksrcwebApp.tsx")).toBe(true);
+    expect(isBiomeTarget(String.raw`C:\work\src\web\App.tsx`)).toBe(true);
   });
 
   it("大文字の拡張子でも true", () => {
