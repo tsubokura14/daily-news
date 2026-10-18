@@ -5,7 +5,15 @@ import { canGoNext, canGoPrev, shiftDate } from "./articles/dates.ts";
 import { FilterGrid } from "./articles/FilterGrid.tsx";
 import { ALL, applyFilter, type Filter, filterCells } from "./articles/filter.ts";
 import { Header } from "./articles/Header.tsx";
-import { EmptyDay, EmptyFilter, LoadError, OutsideHeading, Skeleton } from "./articles/States.tsx";
+import {
+  EmptyDay,
+  EmptyFilter,
+  LoadError,
+  NoAiNotice,
+  OutsideHeading,
+  PastBanner,
+  Skeleton,
+} from "./articles/States.tsx";
 import { useDailyList } from "./articles/useDailyList.ts";
 import { currentTheme, setTheme, type Theme } from "./theme.ts";
 
@@ -39,6 +47,7 @@ export function App() {
 
     return (
       <>
+        {list.status === "no-ai" && <NoAiNotice />}
         {filterable && (
           <FilterGrid
             cells={filterCells(list.articles, CATEGORY_NAMES)}
@@ -71,6 +80,8 @@ export function App() {
     <>
       <Header
         date={date}
+        latest={latest}
+        onSelect={select}
         canPrev={canPrev}
         canNext={canNext}
         onPrev={() => move(-1)}
@@ -78,6 +89,9 @@ export function App() {
         theme={theme}
         onToggleTheme={toggleTheme}
       />
+      {date && latest && date !== latest && (
+        <PastBanner date={date} onLatest={() => select(latest)} />
+      )}
       {body()}
     </>
   );
