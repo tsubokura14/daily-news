@@ -22,7 +22,7 @@ export function Summary({ text }: { text: string }) {
   }, [text, open]);
 
   return (
-    <div className="mt-4">
+    <div className="mt-3">
       <p ref={ref} className={`text-sm leading-7 ${open ? "" : "line-clamp-4"}`}>
         {text}
       </p>
@@ -31,7 +31,7 @@ export function Summary({ text }: { text: string }) {
           type="button"
           aria-expanded={open}
           onClick={() => setOpen((o) => !o)}
-          className="mt-1 flex items-center gap-0.5 py-1 text-sm font-medium text-link"
+          className="flex items-center gap-0.5 py-1 text-sm font-medium text-link"
         >
           {open ? "折りたたむ" : "続きを表示"}
           <Icon name={open ? "expandLess" : "expandMore"} className="size-5" />

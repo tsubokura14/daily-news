@@ -13,7 +13,7 @@ export function ArticleCard({ article }: { article: Article }) {
     </a>
   );
   return (
-    <article className="rounded-2xl border border-line bg-surface p-4">
+    <article className="rounded-2xl border border-line bg-surface px-4 pt-4 pb-3">
       <div className="flex items-center gap-2 text-xs font-medium">
         <span className="size-2 rounded-full bg-source-hn" aria-hidden="true" />
         Hacker News
@@ -42,7 +42,7 @@ export function ArticleCard({ article }: { article: Article }) {
       )}
 
       <h2 className="mt-2 font-serif text-lg font-medium leading-snug">{link}</h2>
-      <p className="mt-2 text-xs leading-5 text-muted">
+      <p className="mt-1 text-xs leading-5 text-muted">
         {ai && `${article.titleEn}・`}
         {article.domain}
       </p>
