@@ -295,5 +295,5 @@ GitHub Actions の新しいワークフロー `daily.yml` が、毎日 JST 7:00�
 - [x] 3. Gemini で分類・要約する：`summarizer.ts`、`gemini.ts` ができ、キーがあれば日本語の一覧（`ok`）が、AI が失敗したら英語の一覧が書かれたら完了
 - [x] 4. 毎朝のワークフローと README：`daily.yml` が 7:00 と手動で動いて `data/` をコミットし、出し直し、README に設定の手順とキーワードの直し方が書かれたら完了（取り込んだあと、人間が手動で1回動かして、`data/` に一覧を作る）
 - [x] 5. 記事一覧の画面：いちばん新しい日の一覧を、ヘッダー（‹ › での日付の移動、明暗、ログインのボタン）、絞り込みのマス目、カード、要約の開閉、指標の説明、読み込み中・エラー・その日が0件・カテゴリが0件の表示つきで出せたら完了。仮の画面は消す。合わせる画像：`articles-default.png`、`articles-default-dark.png`、`articles-default-pc.png`、`articles-many.png`、`articles-summary-open.png`、`articles-loading.png`、`articles-error.png`、`articles-empty-day.png`、`articles-empty-category.png`、`articles-oldest.png`
-- [ ] 6. 過去の日とカレンダー、AI を使えなかった日：過去の日の帯と「最新へ」、カレンダー、AI を使えなかった日のお知らせとカードが出せたら完了。合わせる画像：`articles-past.png`、`articles-calendar.png`、`articles-no-summary.png`
+- [x] 6. 過去の日とカレンダー、AI を使えなかった日：過去の日の帯と「最新へ」、カレンダー、AI を使えなかった日のお知らせとカードが出せたら完了。合わせる画像：`articles-past.png`、`articles-calendar.png`、`articles-no-summary.png`
 - [ ] 7. 絞り込みの帯：スクロールで帯が出て、「絞り込み」でマス目を開閉できたら完了。合わせる画像：`articles-category-bar.png`、`articles-category-panel.png`
