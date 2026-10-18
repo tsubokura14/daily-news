@@ -1,4 +1,4 @@
-import { fireEvent, render, screen, waitFor } from "@testing-library/react";
+import { fireEvent, render, screen, waitFor, within } from "@testing-library/react";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import type { DailyList } from "../shared/articles.ts";
 import { App } from "./App.tsx";
@@ -121,5 +121,98 @@ describe("読み込みに失敗した", () => {
     fail = false;
     fireEvent.click(screen.getByRole("button", { name: /再読み込み/ }));
     expect(await screen.findByText("日本語の見出し 1")).toBeInTheDocument();
+  });
+});
+
+describe("過去の日", () => {
+  const routes = () => ({
+    "latest.json": () => json({ date: "2026-10-17" }),
+    "articles/2026-10-17.json": () => json(list([makeArticle("1")])),
+    "articles/2026-10-16.json": () => json(list([makeArticle("2")])),
+  });
+
+  it("最新の日では帯を出さない。前の日へ移ると帯を出し、「最新へ」で戻ると消える", async () => {
+    stubFetch(routes());
+    render(<App />);
+    await screen.findByText("日本語の見出し 1");
+    expect(screen.queryByText(/の一覧を表示中/)).not.toBeInTheDocument();
+
+    fireEvent.click(screen.getByRole("button", { name: "前の日" }));
+    expect(await screen.findByText("10/16（金）の一覧を表示中")).toBeInTheDocument();
+    expect(await screen.findByText("日本語の見出し 2")).toBeInTheDocument();
+
+    fireEvent.click(screen.getByRole("button", { name: /最新へ/ }));
+    expect(await screen.findByText("日本語の見出し 1")).toBeInTheDocument();
+    expect(screen.queryByText(/の一覧を表示中/)).not.toBeInTheDocument();
+  });
+});
+
+describe("カレンダー", () => {
+  const routes = () => ({
+    "latest.json": () => json({ date: "2026-10-17" }),
+    "articles/2026-10-17.json": () => json(list([makeArticle("1")])),
+    "articles/2026-10-16.json": () => json(list([makeArticle("2")])),
+  });
+  const open = async () => {
+    render(<App />);
+    await screen.findByText("日本語の見出し 1");
+    fireEvent.click(screen.getByRole("button", { name: /^10\/17/ }));
+    return screen.getByRole("dialog", { name: "カレンダー" });
+  };
+
+  afterEach(() => {
+    vi.useRealTimers();
+  });
+
+  it("いちばん新しい日は押せて、それより後は押せない（範囲の境界は dates.test.ts）", async () => {
+    stubFetch(routes());
+    const calendar = await open();
+    expect(within(calendar).getByRole("button", { name: "10月17日" })).toBeEnabled();
+    expect(within(calendar).getByRole("button", { name: "10月18日" })).toBeDisabled();
+  });
+
+  it("日を選ぶとその日の一覧を読んで、閉じる", async () => {
+    stubFetch(routes());
+    const calendar = await open();
+    fireEvent.click(within(calendar).getByRole("button", { name: "10月16日" }));
+    expect(await screen.findByText("日本語の見出し 2")).toBeInTheDocument();
+    expect(screen.queryByRole("dialog", { name: "カレンダー" })).not.toBeInTheDocument();
+  });
+
+  it("外を押すと閉じる", async () => {
+    stubFetch(routes());
+    await open();
+    fireEvent.click(screen.getByRole("button", { name: "カレンダーを閉じる" }));
+    expect(screen.queryByRole("dialog", { name: "カレンダー" })).not.toBeInTheDocument();
+  });
+
+  it("「今日」の印は本当の今日に付く。その日の一覧がまだなければ押せない", async () => {
+    // 10/18 7:30（JST）。取得はこれからで、latest.json はまだ10/17
+    vi.useFakeTimers({ toFake: ["Date"], now: new Date("2026-10-18T07:30:00+09:00") });
+    stubFetch(routes());
+    const calendar = await open();
+    const today = within(calendar).getByRole("button", { name: "10月18日" });
+    expect(today).toHaveAttribute("aria-current", "date");
+    expect(today).toBeDisabled();
+  });
+});
+
+describe("AI を使えなかった日", () => {
+  it("お知らせを出し、絞り込みのマス目は出さない", async () => {
+    stubDay(list([makeOutside("1", { ai: undefined })], "no-ai"));
+    render(<App />);
+    expect(
+      await screen.findByText(
+        "AI 処理に失敗したため、この日は分類と要約がありません。英語タイトルを反響順に表示しています。",
+      ),
+    ).toBeInTheDocument();
+    expect(screen.queryByRole("group", { name: "絞り込み" })).not.toBeInTheDocument();
+  });
+
+  it("ふつうの日には、お知らせを出さない", async () => {
+    stubDay(list([makeArticle("1")]));
+    render(<App />);
+    await screen.findByText("日本語の見出し 1");
+    expect(screen.queryByText(/AI 処理に失敗したため/)).not.toBeInTheDocument();
   });
 });

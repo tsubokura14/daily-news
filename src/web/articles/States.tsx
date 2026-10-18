@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import { Icon } from "../icons.tsx";
+import { formatDate } from "./dates.ts";
 
 const outlineButton =
   "mt-6 inline-flex h-10 items-center gap-1 rounded-full border border-line px-5 text-sm";
@@ -77,6 +78,39 @@ export function OutsideHeading() {
         <h2 className="text-base font-bold">キーワード外</h2>
         <p className="text-xs text-muted">キーワードに一致しない、反響上位の記事</p>
       </div>
+    </div>
+  );
+}
+
+/** 過去の日を見ているとき、ヘッダーのすぐ下に出す帯 */
+export function PastBanner({ date, onLatest }: { date: string; onLatest: () => void }) {
+  return (
+    <div className="border-b border-line bg-notice-bg text-notice-ink">
+      <div className="mx-auto flex h-10 max-w-4xl items-center gap-2 px-4 text-sm">
+        <Icon name="history" className="size-5 shrink-0" />
+        {formatDate(date)}の一覧を表示中
+        <button
+          type="button"
+          onClick={onLatest}
+          className="ml-auto flex items-center gap-0.5 py-2 font-bold"
+        >
+          最新へ
+          <Icon name="chevronRight" className="size-5" />
+        </button>
+      </div>
+    </div>
+  );
+}
+
+/** 一覧の上に出すお知らせ（AI を使えなかった日） */
+export function NoAiNotice() {
+  return (
+    <div className="mx-auto max-w-4xl px-4 pt-4">
+      <p className="flex items-start gap-3 rounded-xl bg-notice-bg px-4 py-3 text-sm leading-6 text-notice-ink">
+        <Icon name="info" className="mt-1 size-5 shrink-0" />
+        AI
+        処理に失敗したため、この日は分類と要約がありません。英語タイトルを反響順に表示しています。
+      </p>
     </div>
   );
 }

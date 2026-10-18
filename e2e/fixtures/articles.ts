@@ -181,3 +181,12 @@ export const manyList: DailyList = {
 
 /** 取得に失敗した日。記事がない */
 export const failedList: DailyList = { date: LATEST_DATE, status: "failed", articles: [] };
+
+/** AI を使えなかった日。英語タイトルだけで、反響の順 */
+export const noAiList: DailyList = {
+  date: "2026-10-15",
+  status: "no-ai",
+  articles: articles
+    .map(({ ai: _ai, keyword: _keyword, ...rest }) => rest)
+    .sort((a, b) => b.reaction - a.reaction),
+};

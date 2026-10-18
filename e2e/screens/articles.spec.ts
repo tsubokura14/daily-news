@@ -1,6 +1,6 @@
 import { expect, type Page, test } from "@playwright/test";
 import type { DailyList } from "../../src/shared/articles.ts";
-import { defaultList, failedList, LATEST_DATE, manyList } from "../fixtures/articles.ts";
+import { defaultList, failedList, LATEST_DATE, manyList, noAiList } from "../fixtures/articles.ts";
 
 // 記事一覧の画面を、状態ごとに撮って基準と比べる。
 // 状態は、ブラウザが取りに行く JSON の返事を差し替えて作る（理由は docs/design.md）
@@ -9,20 +9,23 @@ test.use({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 });
 
 type Options = {
   list?: DailyList;
+  /** 日付ごとに返す一覧。ない日は list */
+  byDate?: Record<string, DailyList>;
   /** 日ごとの一覧を、返事が来ない状態にする（読み込み中） */
   pending?: boolean;
   /** 日ごとの一覧を、失敗させる */
   fail?: boolean;
 };
 
-async function open(page: Page, { list = defaultList, pending, fail }: Options = {}) {
+async function open(page: Page, { list = defaultList, byDate = {}, pending, fail }: Options = {}) {
   // 日付など、撮るたびに変わるものを固定する（2026-10-17 の 7:30 JST）
   await page.clock.install({ time: new Date("2026-10-17T07:30:00+09:00") });
   await page.route("**/latest.json", (route) => route.fulfill({ json: { date: LATEST_DATE } }));
   await page.route("**/articles/*.json", (route) => {
     if (pending) return;
     if (fail) return route.fulfill({ status: 500 });
-    return route.fulfill({ json: list });
+    const date = new URL(route.request().url()).pathname.match(/(\d{4}-\d{2}-\d{2})\.json$/)?.[1];
+    return route.fulfill({ json: (date && byDate[date]) || list });
   });
   await page.goto("./");
   await page.evaluate("document.fonts.ready");
@@ -95,8 +98,34 @@ test("articles-oldest", async ({ page }) => {
   const prev = page.getByRole("button", { name: "前の日" });
   // いちばん古い日（89日前）まで戻る
   for (let i = 0; i < 89; i++) await prev.click();
-  await expect(page.getByText("7/20（月）")).toBeVisible();
+  await expect(page.getByRole("button", { name: "7/20（月）" })).toBeVisible();
   await expect(prev).toBeDisabled();
+  await expect(page.getByText("7/20（月）の一覧を表示中")).toBeVisible();
   await expect(page.getByRole("article").first()).toBeVisible();
   await shot(page, "oldest");
+});
+
+test("articles-past", async ({ page }) => {
+  await open(page);
+  await page.getByRole("button", { name: "前の日" }).click();
+  await expect(page.getByText("10/16（金）の一覧を表示中")).toBeVisible();
+  await expect(page.getByRole("article").first()).toBeVisible();
+  await shot(page, "past");
+});
+
+test("articles-calendar", async ({ page }) => {
+  await open(page);
+  await page.getByRole("button", { name: /^10\/17/ }).click();
+  await expect(page.getByRole("dialog", { name: "カレンダー" })).toBeVisible();
+  await shot(page, "calendar");
+});
+
+test("articles-no-summary", async ({ page }) => {
+  await open(page, { byDate: { "2026-10-15": noAiList } });
+  const prev = page.getByRole("button", { name: "前の日" });
+  await prev.click();
+  await prev.click();
+  await expect(page.getByText(/AI 処理に失敗したため/)).toBeVisible();
+  await expect(page.getByRole("article").first()).toBeVisible();
+  await shot(page, "no-summary");
 });
