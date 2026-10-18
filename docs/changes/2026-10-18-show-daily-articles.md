@@ -177,6 +177,7 @@ GitHub Actions の新しいワークフロー `daily.yml` が、毎日 JST 7:00�
 | `body.ts` | 元記事の HTML から本文の文字だけを取り出す（`@mozilla/readability` と、入っている `jsdom`。Q21）。取れなければ「本文なし」 |
 | `summarizer.ts` | AI の型（`Summarizer`：分類する、要約する）。AI を変えるときは、これを満たすものを足す |
 | `gemini.ts` | Gemini での `Summarizer`（`@google/genai`）。返事の形を JSON の型で指定し、受け取ったら形を確かめる |
+| `category.ts` | AI が返した一致したキーワードとカテゴリを直す（登録にないキーワードを外し、カテゴリを優先度の決まりに合わせる。Q18） |
 | `reaction.ts` | 反響の計算 |
 | `select.ts` | 一覧に載せる記事の選び方と並べ方 |
 | `store.ts` | `data/` の読み書き（直近3日の記事、直近30日の記録、その日の一覧、いちばん新しい日） |
@@ -291,7 +292,7 @@ GitHub Actions の新しいワークフロー `daily.yml` が、毎日 JST 7:00�
 
 - [x] 1. 記事の型と、反響・選び方の計算：`src/shared/articles.ts`、`config.ts`、`keywords.json`・`keywords.ts`、`reaction.ts`、`select.ts` とそのテストができたら完了
 - [x] 2. HN から取って英語の一覧を作る：`source.ts`、`hackernews.ts`、`body.ts`、`store.ts`、`main.ts` ができ、AI のキーがなくても `node src/batch/main.ts` で `data/` に英語タイトルの一覧（`no-ai`）・記録・いちばん新しい日が書かれたら完了
-- [ ] 3. Gemini で分類・要約する：`summarizer.ts`、`gemini.ts` ができ、キーがあれば日本語の一覧（`ok`）が、AI が失敗したら英語の一覧が書かれたら完了
+- [x] 3. Gemini で分類・要約する：`summarizer.ts`、`gemini.ts` ができ、キーがあれば日本語の一覧（`ok`）が、AI が失敗したら英語の一覧が書かれたら完了
 - [ ] 4. 毎朝のワークフローと README：`daily.yml` が 7:00 と手動で動いて `data/` をコミットし、出し直し、README に設定の手順とキーワードの直し方が書かれたら完了（取り込んだあと、人間が手動で1回動かして、`data/` に一覧を作る）
 - [ ] 5. 記事一覧の画面：いちばん新しい日の一覧を、ヘッダー（‹ › での日付の移動、明暗、ログインのボタン）、絞り込みのマス目、カード、要約の開閉、指標の説明、読み込み中・エラー・その日が0件・カテゴリが0件の表示つきで出せたら完了。仮の画面は消す。合わせる画像：`articles-default.png`、`articles-default-dark.png`、`articles-default-pc.png`、`articles-many.png`、`articles-summary-open.png`、`articles-loading.png`、`articles-error.png`、`articles-empty-day.png`、`articles-empty-category.png`、`articles-oldest.png`
 - [ ] 6. 過去の日とカレンダー、AI を使えなかった日：過去の日の帯と「最新へ」、カレンダー、AI を使えなかった日のお知らせとカードが出せたら完了。合わせる画像：`articles-past.png`、`articles-calendar.png`、`articles-no-summary.png`
