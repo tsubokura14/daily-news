@@ -17,6 +17,7 @@ export async function fetchBody(
   try {
     const res = await (options.fetch ?? fetch)(url, {
       signal: AbortSignal.timeout(options.timeoutMs ?? 15_000),
+      // 名乗りのない通信を断るサイトがあるため、連絡先つきで名乗る
       headers: { "user-agent": "daily-news/1.0 (+https://github.com/tsubokura14/daily-news)" },
     });
     if (!res.ok || !(res.headers.get("content-type") ?? "").includes("html")) return null;

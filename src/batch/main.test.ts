@@ -253,6 +253,17 @@ describe("run（AI を使う）", () => {
     expect(list.articles[0]).not.toHaveProperty("keyword");
   });
 
+  it("分類の返事がどのまとまりも読めなかった日は、英語の一覧（no-ai）にする", async () => {
+    await runWith(
+      fakeAi({
+        classify: async () => {
+          throw new AiReplyError("読めない");
+        },
+      }),
+    );
+    expect((await saved()).status).toBe("no-ai");
+  });
+
   it("要約の途中で AI が使えなくなっても、英語の一覧（no-ai）にする", async () => {
     await runWith(
       fakeAi({

@@ -143,6 +143,11 @@ async function aiArticles(
     }
   }
 
+  // どのまとまりも読めなかった日は、AI を使えなかった日として扱う
+  if (items.length > 0 && keywordOf.size === 0) {
+    throw new AiUnavailableError("分類の返事がどれも読めませんでした");
+  }
+
   const { related, offKeyword } = selectArticles(candidates, {
     size: config.listSize,
     relatedRatio: config.relatedRatio,

@@ -177,6 +177,7 @@ GitHub Actions の新しいワークフロー `daily.yml` が、毎日 JST 7:00�
 | `body.ts` | 元記事の HTML から本文の文字だけを取り出す（`@mozilla/readability` と、入っている `jsdom`。Q21）。取れなければ「本文なし」 |
 | `summarizer.ts` | AI の型（`Summarizer`：分類する、要約する）。AI を変えるときは、これを満たすものを足す |
 | `gemini.ts` | Gemini での `Summarizer`（`@google/genai`）。返事の形を JSON の型で指定し、受け取ったら形を確かめる |
+| `category.ts` | AI が返した一致したキーワードとカテゴリを直す（登録にないキーワードを外し、カテゴリを優先度の決まりに合わせる。Q18） |
 | `reaction.ts` | 反響の計算 |
 | `select.ts` | 一覧に載せる記事の選び方と並べ方 |
 | `store.ts` | `data/` の読み書き（直近3日の記事、直近30日の記録、その日の一覧、いちばん新しい日） |
