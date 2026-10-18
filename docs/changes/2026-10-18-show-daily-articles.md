@@ -289,7 +289,7 @@ GitHub Actions の新しいワークフロー `daily.yml` が、毎日 JST 7:00�
 
 ## タスク
 
-- [ ] 1. 記事の型と、反響・選び方の計算：`src/shared/articles.ts`、`config.ts`、`keywords.json`・`keywords.ts`、`reaction.ts`、`select.ts` とそのテストができたら完了
+- [x] 1. 記事の型と、反響・選び方の計算：`src/shared/articles.ts`、`config.ts`、`keywords.json`・`keywords.ts`、`reaction.ts`、`select.ts` とそのテストができたら完了
 - [ ] 2. HN から取って英語の一覧を作る：`source.ts`、`hackernews.ts`、`body.ts`、`store.ts`、`main.ts` ができ、AI のキーがなくても `node src/batch/main.ts` で `data/` に英語タイトルの一覧（`no-ai`）・記録・いちばん新しい日が書かれたら完了
 - [ ] 3. Gemini で分類・要約する：`summarizer.ts`、`gemini.ts` ができ、キーがあれば日本語の一覧（`ok`）が、AI が失敗したら英語の一覧が書かれたら完了
 - [ ] 4. 毎朝のワークフローと README：`daily.yml` が 7:00 と手動で動いて `data/` をコミットし、出し直し、README に設定の手順とキーワードの直し方が書かれたら完了（取り込んだあと、人間が手動で1回動かして、`data/` に一覧を作る）
