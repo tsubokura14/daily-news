@@ -164,19 +164,11 @@ describe("カレンダー", () => {
     vi.useRealTimers();
   });
 
-  it("押せるのは一覧のある範囲の日だけ。いちばん新しい日より後は押せない", async () => {
+  it("いちばん新しい日は押せて、それより後は押せない（範囲の境界は dates.test.ts）", async () => {
     stubFetch(routes());
     const calendar = await open();
     expect(within(calendar).getByRole("button", { name: "10月17日" })).toBeEnabled();
     expect(within(calendar).getByRole("button", { name: "10月18日" })).toBeDisabled();
-    // 7月19日は、いちばん古い日（7月20日）の前日
-    fireEvent.click(within(calendar).getByRole("button", { name: "前の月" }));
-    fireEvent.click(within(calendar).getByRole("button", { name: "前の月" }));
-    fireEvent.click(within(calendar).getByRole("button", { name: "前の月" }));
-    expect(within(calendar).getByText("2026年7月")).toBeInTheDocument();
-    expect(within(calendar).getByRole("button", { name: "7月19日" })).toBeDisabled();
-    expect(within(calendar).getByRole("button", { name: "7月20日" })).toBeEnabled();
-    expect(within(calendar).getByRole("button", { name: "前の月" })).toBeDisabled();
   });
 
   it("日を選ぶとその日の一覧を読んで、閉じる", async () => {

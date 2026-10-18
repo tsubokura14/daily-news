@@ -30,7 +30,7 @@ export function Calendar({ date, latest, onSelect, onClose }: Props) {
       <div
         role="dialog"
         aria-label="カレンダー"
-        className="absolute top-full left-3 z-20 w-[286px] rounded-2xl border border-line bg-surface p-3 shadow-lg md:right-4 md:left-auto"
+        className="absolute top-full left-3 z-20 w-72 rounded-2xl border border-line bg-surface p-3 md:right-4 md:left-auto"
       >
         <div className="flex items-center justify-between">
           <button
