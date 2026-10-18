@@ -41,7 +41,7 @@ jobs:
             git push
           fi
 
-  # GITHUB_TOKEN での push では、deploy.yml の push の起動が動かないため、ここで呼ぶ
+  # 出し直しを呼ぶ理由は deploy.yml
   deploy:
     needs: fetch
     permissions:
