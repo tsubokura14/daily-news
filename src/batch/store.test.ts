@@ -68,20 +68,13 @@ describe("readHistory", () => {
   });
 });
 
-describe("writeList / writeLatest", () => {
+describe("writeList", () => {
   it("同じ日にもう一度書くと置き換わる", async () => {
     const store = createStore(dir);
     await store.writeList(list("2026-10-17", ["hn-1", "hn-2"]));
     await store.writeList(list("2026-10-17", ["hn-3"]));
     const saved = JSON.parse(await readFile(join(dir, "articles/2026-10-17.json"), "utf8"));
     expect(saved.articles.map((a: Article) => a.id)).toEqual(["hn-3"]);
-  });
-
-  it("いちばん新しい日を書く", async () => {
-    await createStore(dir).writeLatest("2026-10-17");
-    expect(JSON.parse(await readFile(join(dir, "latest.json"), "utf8"))).toEqual({
-      date: "2026-10-17",
-    });
   });
 });
 

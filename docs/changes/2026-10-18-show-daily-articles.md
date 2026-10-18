@@ -238,7 +238,7 @@ GitHub Actions の新しいワークフロー `daily.yml` が、毎日 JST 7:00�
 ### 入れるパッケージ
 
 - `@google/genai`（Gemini の公式の SDK。返事の形を指定する型がある）、`@mozilla/readability`。入れたタスクで `docs/libraries/` に下書きを書く
-- `jsdom` は、取得のスクリプトでも使うので `dependencies` に移す
+- `jsdom` は、取得のスクリプトでも使うので `dependencies` に移す。型の `@types/jsdom` は `devDependencies` に足す（jsdom に型がないため）
 
 ### 手作業の設定（README に書く）
 

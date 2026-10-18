@@ -84,13 +84,6 @@ describe("run（AI を使わない）", () => {
     // 反響の大きい記事が先に来る（同じ反響なら取得した順）
     expect(reactions[0]).toBeGreaterThan(reactions[29] ?? 5);
   });
-
-  it("同じ日にもう一度動かすと、その日の一覧を置き換える", async () => {
-    await run({ source: sourceOf([item(1, 500)]), dataDir: dir, now });
-    await run({ source: sourceOf([item(2, 500)]), dataDir: dir, now });
-    const saved: DailyList = await readJson(`articles/${date}.json`);
-    expect(saved.articles.map((a) => a.id)).toEqual(["hn-2"]);
-  });
 });
 
 describe("run（取得に失敗したとき）", () => {

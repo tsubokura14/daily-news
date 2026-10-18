@@ -14,14 +14,3 @@ export function htmlToText(html: string): string {
   const withBreaks = html.replace(/<(p|br)\s*\/?>/gi, "\n");
   return (new JSDOM(withBreaks).window.document.body.textContent ?? "").trim();
 }
-
-/** 元記事を取って本文を取り出す。取れない（通信の失敗、HTML 以外、本文なし）ときは null */
-export async function fetchBody(url: string, maxChars: number): Promise<string | null> {
-  try {
-    const res = await fetch(url, { signal: AbortSignal.timeout(15_000) });
-    if (!res.ok || !res.headers.get("content-type")?.includes("html")) return null;
-    return extractBody(await res.text(), maxChars);
-  } catch {
-    return null;
-  }
-}
