@@ -98,7 +98,7 @@ test("articles-oldest", async ({ page }) => {
   const prev = page.getByRole("button", { name: "前の日" });
   // いちばん古い日（89日前）まで戻る
   for (let i = 0; i < 89; i++) await prev.click();
-  await expect(page.getByText("7/20（月）")).toBeVisible();
+  await expect(page.getByRole("button", { name: "7/20（月）" })).toBeVisible();
   await expect(prev).toBeDisabled();
   await expect(page.getByText("7/20（月）の一覧を表示中")).toBeVisible();
   await expect(page.getByRole("article").first()).toBeVisible();

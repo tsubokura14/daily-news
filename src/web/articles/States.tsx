@@ -86,7 +86,7 @@ export function OutsideHeading() {
 export function PastBanner({ date, onLatest }: { date: string; onLatest: () => void }) {
   return (
     <div className="border-b border-line bg-notice-bg text-notice-ink">
-      <div className="mx-auto flex h-12 max-w-4xl items-center gap-2 px-4 text-sm">
+      <div className="mx-auto flex h-10 max-w-4xl items-center gap-2 px-4 text-sm">
         <Icon name="history" className="size-5 shrink-0" />
         {formatDate(date)}の一覧を表示中
         <button
@@ -106,7 +106,7 @@ export function PastBanner({ date, onLatest }: { date: string; onLatest: () => v
 export function NoAiNotice() {
   return (
     <div className="mx-auto max-w-4xl px-4 pt-4">
-      <p className="flex items-start gap-3 rounded-xl bg-notice-bg p-4 text-sm leading-7 text-notice-ink">
+      <p className="flex items-start gap-3 rounded-xl bg-notice-bg px-4 py-3 text-sm leading-6 text-notice-ink">
         <Icon name="info" className="mt-1 size-5 shrink-0" />
         AI
         処理に失敗したため、この日は分類と要約がありません。英語タイトルを反響順に表示しています。

@@ -42,8 +42,9 @@ export function App() {
     const visible = applyFilter(list.articles, filter);
     // AI を使えなかった日（no-ai）は、キーワードで仕分けていないので、絞り込みを出さない
     const filterable = list.status === "ok";
-    // 見出し「キーワード外」は、すべてを見ているときだけ、キーワード外の最初の記事の前に置く
-    const firstOutside = filter.kind === "all" ? visible.findIndex((a) => !a.keyword) : -1;
+    // 見出し「キーワード外」は、すべてを見ているときだけ（no-ai の日は仕分けがないので出さない）、キーワード外の最初の記事の前に置く
+    const firstOutside =
+      filter.kind === "all" && filterable ? visible.findIndex((a) => !a.keyword) : -1;
 
     return (
       <>
