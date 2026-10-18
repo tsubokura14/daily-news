@@ -1,55 +1,58 @@
-<!--
-この README は、GitHub でリポジトリを見た人向けの説明。
-このようなコメントは GitHub では表示されない。
-開発の進め方と立ち上げの手順は docs/how-we-work.md にある。
--->
+# Daily News
 
-# プロジェクト名
+毎朝、自分が登録したキーワードに関連するニュースを、日本語で手早く把握するためのアプリです。記事は Hacker News から集めて AI が要約し、視野が狭くならないよう、キーワードと関係なく反響の大きかった記事も少し混ぜます。
 
-<!-- 何のためのアプリかを1〜2文で -->
+公開のページ：https://tsubokura14.github.io/daily-news/
 
-<!-- 画面のスクリーンショットや、動いているURLがあれば載せる
-![スクリーンショット](docs/images/screenshot.png)
--->
+> 今は開発の土台ができた段階で、ページにはアプリ名だけが出ます。記事の取得・一覧・ログインなどは、これから作ります。
 
 ## 主な機能
 
-<!-- 使う人から見てできること。docs/overview.md の「主な機能」から -->
+- 毎日 JST 7:00 に、Hacker News の注目記事から30件ほどを選び、日本語のタイトルと要約を付けて一覧にする
+  - 8割はキーワードに関連する記事、2割はキーワード外で反響の大きい記事
+- 日付を切り替えて過去（直近90日）の一覧を読み、カテゴリで絞り込む
+- 自分の Google アカウントでログインし、キーワードの設定と、保存・既読・興味なしの印を使う
+- 画面の明暗を切り替える
 
--
+詳しくは [docs/overview.md](docs/overview.md) にあります。
 
 ## 使っている技術
 
-<!-- docs/overview.md の「技術」から -->
-
--
+TypeScript、Vite + React、Tailwind CSS、Firebase（Authentication、Firestore）、Gemini、Vitest、Playwright、Biome、GitHub Actions、GitHub Pages。
+選んだ理由は [docs/overview.md](docs/overview.md) の「技術」にあります。
 
 ## セットアップ
 
 ### 必要なもの
 
-<!-- 例：Node.js 22 以上 -->
-
--
+- Node.js（LTS）と npm
+- Docker Desktop（画面の画像を撮る、または基準と比べるときだけ）
 
 ### 手順
 
 ```bash
-# 例
-git clone <リポジトリのURL>
-cd <リポジトリ名>
-npm install
-cp .env.example .env
+git clone https://github.com/tsubokura14/daily-news.git
+cd daily-news
+npm ci
+npm run dev
 ```
 
-<!-- 環境変数があれば、それぞれ何を入れるかを書く -->
+表示されたアドレス（既定は `http://localhost:5173/daily-news/`）をブラウザで開きます。
 
 ## 開発コマンド
 
 | コマンド | 内容 |
 | --- | --- |
-| <!-- npm run dev --> | <!-- 開発サーバーを起動 --> |
-| <!-- npm test --> | <!-- テストを実行 --> |
+| `npm run dev` | 表示ページを立ち上げる |
+| `npm test` | Vitest を実行する |
+| `npm run test:e2e` | ブラウザの操作のテスト（Playwright）を実行する。画面の画像は除く |
+| `npm run test:screens` | Docker の中で画面を撮り、`docs/specs/screens/` の基準と比べる |
+| `npm run test:screens:update` | Docker の中で、基準の画像を撮り直す |
+| `npm run lint` | Lint と整形を確かめる（`npm run lint:fix` で直す） |
+| `npm run typecheck` | 型チェック |
+| `npm run build` | build する |
+
+撮るときのポートは、環境変数 `PORT` で変えられます（既定は 5173）。
 
 ## 開発の進め方
 
@@ -66,7 +69,7 @@ cp .env.example .env
 | [docs/design.md](docs/design.md) | アプリが今どう作られているか（複数の場所に関わる決まりと、その理由） |
 | [docs/ui.md](docs/ui.md) | 見た目の決まり（色・余白・文字・部品の使い分け） |
 | [docs/changes/](docs/changes/) | 機能ごとの変更の記録（何を・なぜ・どう変えたか） |
-| `docs/libraries/` | コードを読むために必要なライブラリの前提知識（最初のライブラリを入れたときにできる） |
+| [docs/libraries/](docs/libraries/) | コードを読むために必要なライブラリの前提知識 |
 | [docs/how-we-work.md](docs/how-we-work.md) | 開発の進め方 |
 | [AGENTS.md](AGENTS.md) | AIへのルール（Claude Code と GitHub Copilot が読む） |
 | [.claude/skills/](.claude/skills/) | AIが作業で使う手順と決まり（テストの基準、画面の撮り方など） |
