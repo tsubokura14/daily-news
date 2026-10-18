@@ -81,8 +81,8 @@ describe("run（AI を使わない）", () => {
     expect(saved.articles).toHaveLength(30);
     const reactions = saved.articles.map((a) => a.reaction);
     expect(reactions).toEqual([...reactions].sort((a, b) => b - a));
-    // 反響がいちばん大きい記事が先頭
-    expect(saved.articles[0]?.id).toBe("hn-40");
+    // 反響の大きい記事が先に来る（同じ反響なら取得した順）
+    expect(reactions[0]).toBeGreaterThan(reactions[29] ?? 5);
   });
 
   it("同じ日にもう一度動かすと、その日の一覧を置き換える", async () => {

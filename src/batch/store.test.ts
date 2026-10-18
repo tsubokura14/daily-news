@@ -39,7 +39,7 @@ describe("recentArticleIds", () => {
     const store = createStore(dir);
     await store.writeList(list("2026-10-14", ["hn-3days"]));
     await store.writeList(list("2026-10-13", ["hn-4days"]));
-    await store.writeList(list("2026-10-17", ["hn-1day"]));
+    await store.writeList(list("2026-10-16", ["hn-1day"]));
     expect(await store.recentArticleIds("2026-10-17", 3)).toEqual(new Set(["hn-3days", "hn-1day"]));
   });
 

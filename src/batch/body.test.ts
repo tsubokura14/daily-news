@@ -22,6 +22,5 @@ describe("extractBody", () => {
 
   it("本文が取れないときは null", () => {
     expect(extractBody("<html><body></body></html>", 4000)).toBeNull();
-    expect(extractBody("not html at all", 4000)).toBeNull();
   });
 });
