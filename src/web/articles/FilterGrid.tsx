@@ -6,7 +6,7 @@ type Props = {
   onSelect: (filter: Filter) => void;
 };
 
-/** 同じものがいつも同じ位置にあるよう、形を変えない等幅のマス目にする（docs/ui.md） */
+/** すべて・カテゴリ・キーワード外の等幅のマス目（形と並びは docs/ui.md） */
 export function FilterGrid({ cells, selected, onSelect }: Props) {
   return (
     <div className="border-b border-line">

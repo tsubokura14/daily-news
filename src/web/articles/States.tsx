@@ -68,7 +68,7 @@ export function LoadError({ onReload }: { onReload: () => void }) {
   );
 }
 
-/** キーワード外の記事の前の見出し。選び方の違う記事だと分かるようにする */
+/** キーワード外の記事の前の見出し */
 export function OutsideHeading() {
   return (
     <div className="mb-3 mt-6 flex items-end gap-2">

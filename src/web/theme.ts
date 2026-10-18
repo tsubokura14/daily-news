@@ -1,6 +1,6 @@
 export type Theme = "light" | "dark";
 
-// index.html の先頭の script も、描く前に同じ値を読む（ちらつかせないため）。キーを変えるときは両方を直す
+// index.html の先頭の script も同じキーを読む。キーを変えるときは両方を直す
 const STORAGE_KEY = "daily-news-theme";
 
 const isTheme = (value: unknown): value is Theme => value === "light" || value === "dark";
