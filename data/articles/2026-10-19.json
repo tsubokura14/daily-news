@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-19",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50138531",
+      "source": "hackernews",
+      "titleEn": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "domain": "api-docs.deepseek.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50137620",
+      "source": "hackernews",
+      "titleEn": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "domain": "readtheprofile.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50129045",
+      "source": "hackernews",
+      "titleEn": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "domain": "huggingface.co",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50131256",
+      "source": "hackernews",
+      "titleEn": "Solar surpasses nuclear power globally for first time",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "domain": "pv-magazine.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50112657",
+      "source": "hackernews",
+      "titleEn": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "domain": "tesla.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50122800",
+      "source": "hackernews",
+      "titleEn": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50133401",
+      "source": "hackernews",
+      "titleEn": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50121179",
+      "source": "hackernews",
+      "titleEn": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "domain": "mercor.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50122951",
+      "source": "hackernews",
+      "titleEn": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "domain": "claude.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50093568",
+      "source": "hackernews",
+      "titleEn": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "domain": "jjmaxwell4.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50107379",
+      "source": "hackernews",
+      "titleEn": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "domain": "research.meta.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50105647",
+      "source": "hackernews",
+      "titleEn": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "domain": "already-clean.goodfire.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50101813",
+      "source": "hackernews",
+      "titleEn": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "domain": "citizenlab.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50103338",
+      "source": "hackernews",
+      "titleEn": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50106023",
+      "source": "hackernews",
+      "titleEn": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "domain": "zachlandes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50094994",
+      "source": "hackernews",
+      "titleEn": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "domain": "anoma.ly",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50096142",
+      "source": "hackernews",
+      "titleEn": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "domain": "tinylittleoffice.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50089921",
+      "source": "hackernews",
+      "titleEn": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "domain": "dataforprogress.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50084240",
+      "source": "hackernews",
+      "titleEn": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "domain": "typeof.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50091788",
+      "source": "hackernews",
+      "titleEn": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "domain": "csoonline.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50103630",
+      "source": "hackernews",
+      "titleEn": "I know why the mathematicians weep",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "domain": "derekthompson.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50088935",
+      "source": "hackernews",
+      "titleEn": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "domain": "scotthelme.co.uk",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50083028",
+      "source": "hackernews",
+      "titleEn": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "domain": "alexwennerberg.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50109715",
+      "source": "hackernews",
+      "titleEn": "What I self-host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "domain": "viceconsole.fyi",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50084757",
+      "source": "hackernews",
+      "titleEn": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "domain": "not-ship.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50093180",
+      "source": "hackernews",
+      "titleEn": "Suicide rates highest ever among middle-aged men",
+      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "domain": "telegraph.co.uk",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50083130",
+      "source": "hackernews",
+      "titleEn": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50078141",
+      "source": "hackernews",
+      "titleEn": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "domain": "sfstandard.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50145337",
+      "source": "hackernews",
+      "titleEn": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "domain": "arxiv.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50142573",
+      "source": "hackernews",
+      "titleEn": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "domain": "karrisaarinen.com",
+      "reaction": 4
+    }
+  ]
+}
