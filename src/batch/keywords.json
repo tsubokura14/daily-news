@@ -1,0 +1,120 @@
+{
+  "categories": [
+    {
+      "name": "AI",
+      "keywords": [
+        { "word": "LLM", "priority": "high" },
+        { "word": "Claude", "priority": "high" },
+        { "word": "OpenAI", "priority": "high" },
+        { "word": "Gemini", "priority": "high" },
+        { "word": "GitHub Copilot", "priority": "high" },
+        { "word": "エージェント", "priority": "high" },
+        { "word": "RAG", "priority": "high" },
+        { "word": "ファインチューニング", "priority": "high" },
+        { "word": "バイブコーディング", "priority": "high" },
+        { "word": "ハーネスエンジニアリング", "priority": "high" },
+        { "word": "ループエンジニアリング", "priority": "high" }
+      ]
+    },
+    {
+      "name": "Web開発",
+      "keywords": [
+        { "word": "React", "priority": "medium" },
+        { "word": "TypeScript", "priority": "medium" },
+        { "word": "Next.js", "priority": "medium" },
+        { "word": "Vue", "priority": "medium" },
+        { "word": "Angular", "priority": "medium" },
+        { "word": "UI/UX", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "言語・ツール",
+      "keywords": [
+        { "word": "Rust", "priority": "medium" },
+        { "word": "Go", "priority": "medium" },
+        { "word": "Python", "priority": "medium" },
+        { "word": "Java", "priority": "medium" },
+        { "word": "Spring Boot", "priority": "medium" },
+        { "word": "Git", "priority": "medium" },
+        { "word": "エディタ", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "開発手法",
+      "keywords": [
+        { "word": "テスト", "priority": "medium" },
+        { "word": "CI/CD", "priority": "medium" },
+        { "word": "コードレビュー", "priority": "medium" },
+        { "word": "ソフトウェア設計", "priority": "medium" },
+        { "word": "AI駆動開発", "priority": "high" },
+        { "word": "テスト駆動開発", "priority": "high" },
+        { "word": "仕様駆動開発", "priority": "high" },
+        { "word": "DDD（ドメイン駆動設計）", "priority": "medium" },
+        { "word": "クリーンアーキテクチャ", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "データ・DB",
+      "keywords": [
+        { "word": "PostgreSQL", "priority": "medium" },
+        { "word": "MySQL", "priority": "medium" },
+        { "word": "SQLite", "priority": "medium" },
+        { "word": "Oracle", "priority": "medium" },
+        { "word": "データ基盤", "priority": "medium" },
+        { "word": "Firebase", "priority": "medium" },
+        { "word": "Supabase", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "クラウド",
+      "keywords": [
+        { "word": "AWS", "priority": "medium" },
+        { "word": "Google Cloud", "priority": "medium" },
+        { "word": "Azure", "priority": "medium" },
+        { "word": "Cloudflare", "priority": "medium" },
+        { "word": "Vercel", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "インフラ",
+      "keywords": [
+        { "word": "Kubernetes", "priority": "medium" },
+        { "word": "Docker", "priority": "medium" },
+        { "word": "Linux", "priority": "medium" },
+        { "word": "ネットワーク", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "セキュリティ",
+      "keywords": [
+        { "word": "脆弱性", "priority": "medium" },
+        { "word": "認証", "priority": "medium" },
+        { "word": "マルウェア", "priority": "medium" },
+        { "word": "プライバシー", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "機械・電機",
+      "keywords": [
+        { "word": "半導体", "priority": "medium" },
+        { "word": "ロボット", "priority": "medium" },
+        { "word": "EV", "priority": "medium" },
+        { "word": "電池", "priority": "medium" },
+        { "word": "フィジカルAI", "priority": "medium" }
+      ]
+    },
+    {
+      "name": "IT業界",
+      "keywords": [
+        { "word": "買収", "priority": "medium" },
+        { "word": "レイオフ", "priority": "medium" },
+        { "word": "規制", "priority": "medium" },
+        { "word": "オープンソース", "priority": "medium" },
+        { "word": "SIer", "priority": "medium" },
+        { "word": "SES", "priority": "medium" },
+        { "word": "受託開発", "priority": "medium" },
+        { "word": "自社開発", "priority": "medium" }
+      ]
+    }
+  ]
+}
