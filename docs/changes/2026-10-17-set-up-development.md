@@ -196,5 +196,5 @@
 - [x] 3. 画面を撮る仕組み：Docker の中で `placeholder-default.png` を撮り直すコマンドと比べるコマンドが動き、ポートを変えられ、`CLAUDE.project.md` にコマンドが足されたら完了
 - [x] 4. CI：PR で `check` と `e2e` のジョブが走り、画像を比べるテストが失敗したらレポートがアーティファクトに残るようになったら完了
 - [x] 5. デプロイ：main にマージすると空のページが `https://tsubokura14.github.io/daily-news/` に出て、手でも、ほかのワークフローからも出せるようになったら完了
-- [ ] 6. 編集したあとのフック：Windows で、ファイルを編集すると、そのファイルだけに Biome がかかり、対象でない種類と失敗では何もせず止まらず、`.claude/rules/testing.md` の `paths:` が合わせられたら完了
+- [x] 6. 編集したあとのフック：Windows で、ファイルを編集すると、そのファイルだけに Biome がかかり、対象でない種類と失敗では何もせず止まらず、`.claude/rules/testing.md` の `paths:` が合わせられたら完了
 - [ ] 7. 仕上げ：`README.md` と `docs/design.md` の「全体の構成」が書かれ、`docs/overview.md` と `CLAUDE.project.md` が今の状態と合ったら完了
