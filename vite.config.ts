@@ -5,6 +5,8 @@ import { defineConfig } from "vitest/config";
 export default defineConfig({
   // GitHub Pages の https://tsubokura14.github.io/daily-news/ に出すため、リポジトリ名の下に置く
   base: "/daily-news/",
+  // 記事の JSON（data/）を、そのまま公開のページの下に置く。開発のときも同じ URL で読める
+  publicDir: "data",
   plugins: [react(), tailwindcss()],
   test: {
     // 機能を作る前でも、テストのコマンドが失敗で終わらないようにする
