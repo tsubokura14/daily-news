@@ -40,6 +40,7 @@
 | 用途 | 使うもの | 選んだ理由 |
 | --- | --- | --- |
 | 言語・フレームワーク | TypeScript、Vite + React | 取得・要約のスクリプトと表示ページで記事の型を共有でき、静的なファイルを出すだけの作りに合う |
+| 見た目・書体 | Tailwind CSS v4、Fontsource（書体を同梱） | トークンを Tailwind の `@theme` で書ける。書体を同梱すると、画面を撮るときに外の通信が要らず、毎回同じ画像になる |
 | データベース | Firebase（Authentication、Firestore） | 静的なページから Google ログインと読み書きができ、無料のまま使わない日が続いても止まらない。記事は DB に置かず JSON のファイルに置く |
 | 要約の AI | Gemini の Flash-Lite 系（無料枠） | 費用が0円。記事は公開のものなので、送った内容が改善に使われても問題が小さい |
 | テスト | Vitest、Playwright | Vitest は Vite の設定をそのまま使える。ブラウザでの操作と画面の画像は Playwright で確かめる |

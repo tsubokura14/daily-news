@@ -9,6 +9,7 @@ AGENTS.md と CLAUDE.md はテンプレートのものなので、このプロ�
 
 - TypeScript 6.0 系、npm
 - 表示ページ：Vite 8 + React 19（`index.html`、`src/web/`）
+- 見た目：Tailwind CSS v4（トークンは `src/web/styles/tokens.css`）、書体は Fontsource で同梱
 - テスト：Vitest 5（表示ページは jsdom と Testing Library、スクリプトは node）、Playwright 1.64（`e2e/`）
 - 整形・Lint：Biome 2（`biome.jsonc`）
 - DB・ログイン：Firebase（使う機能の Issue で入れる）
