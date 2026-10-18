@@ -1,5 +1,5 @@
 # 表示ページを build して、GitHub Pages に出す。
-# 毎朝の取得のワークフロー（あとの Issue）は、取得して data/ をコミットしたあと、このワークフローを uses: で呼ぶ。
+# 毎朝の取得のワークフロー（daily.yml）は、取得して data/ をコミットしたあと、このワークフローを uses: で呼ぶ。
 # GITHUB_TOKEN での push では、別のワークフロー（この push の起動）が動かないため。
 name: deploy
 

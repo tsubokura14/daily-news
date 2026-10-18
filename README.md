@@ -39,6 +39,26 @@ npm run dev
 
 表示されたアドレス（既定は `http://localhost:5173/daily-news/`）をブラウザで開きます。
 
+## 毎朝の取得の設定
+
+記事は、GitHub Actions の `daily`（毎日 JST 7:00 と手動）が取得して、`data/` にコミットし、ページを出し直します。最初に、次の設定をします。
+
+1. GitHub の Settings → Secrets and variables → Actions → Secrets に、`GEMINI_API_KEY`（Google AI Studio で作ったキー）を登録する
+   - 登録しないと、AI を使わない英語タイトルの一覧になります
+   - モデルを変えるときは、同じ画面の Variables に `GEMINI_MODEL` を登録します（なければ [src/batch/config.ts](src/batch/config.ts) の既定値）
+2. Settings → Pages の公開元（Source）が「GitHub Actions」になっていることを確かめる
+3. Actions の画面で `daily` を選び、Run workflow で手動で1回動かす。`data/` に一覧がコミットされ、公開のページが更新されます
+
+手元で試すときは、`GEMINI_API_KEY=<キー> node src/batch/main.ts`（キーを付けなければ、英語タイトルの一覧になります）。
+
+### キーワードの直し方
+
+[src/batch/keywords.json](src/batch/keywords.json) を直して、main に取り込みます。変えた内容は、次の朝の取得から使われます（その日の一覧は選び直しません）。
+
+- カテゴリは10個まで、名前は6文字まで
+- キーワードごとに `priority` を `high`・`medium`・`low` のどれかにする
+- 形が壊れていると、`data/` に何も書かずに取得が失敗します
+
 ## 開発コマンド
 
 | コマンド | 内容 |
