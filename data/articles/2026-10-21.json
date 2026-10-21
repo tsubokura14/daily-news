@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-21",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50170593",
+      "source": "hackernews",
+      "titleEn": "SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "domain": "permit.petercai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50163277",
+      "source": "hackernews",
+      "titleEn": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50165208",
+      "source": "hackernews",
+      "titleEn": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "domain": "teddysvoronos.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50166579",
+      "source": "hackernews",
+      "titleEn": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "domain": "emudhra.we-have-a-problem.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50167536",
+      "source": "hackernews",
+      "titleEn": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "domain": "mastodon.gamedev.place",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50159341",
+      "source": "hackernews",
+      "titleEn": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "domain": "redact.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50154244",
+      "source": "hackernews",
+      "titleEn": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50122878",
+      "source": "hackernews",
+      "titleEn": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "domain": "alexwang.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50118165",
+      "source": "hackernews",
+      "titleEn": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50132870",
+      "source": "hackernews",
+      "titleEn": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "domain": "numismaticnews.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50136536",
+      "source": "hackernews",
+      "titleEn": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "domain": "tomshardware.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50163502",
+      "source": "hackernews",
+      "titleEn": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "domain": "heistberlin.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50168396",
+      "source": "hackernews",
+      "titleEn": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "domain": "mistral.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50169707",
+      "source": "hackernews",
+      "titleEn": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "domain": "stevekrouse.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50169053",
+      "source": "hackernews",
+      "titleEn": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50170917",
+      "source": "hackernews",
+      "titleEn": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "domain": "blogs.lse.ac.uk",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50108717",
+      "source": "hackernews",
+      "titleEn": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50167028",
+      "source": "hackernews",
+      "titleEn": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "domain": "prestonbyrne.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50168357",
+      "source": "hackernews",
+      "titleEn": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "domain": "e360.yale.edu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50165953",
+      "source": "hackernews",
+      "titleEn": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "domain": "blog.cloudflare.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50163961",
+      "source": "hackernews",
+      "titleEn": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "domain": "neowin.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50166257",
+      "source": "hackernews",
+      "titleEn": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "domain": "kaba.cx",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50168096",
+      "source": "hackernews",
+      "titleEn": "IKEA – 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "domain": "sael.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50166794",
+      "source": "hackernews",
+      "titleEn": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "domain": "tyma.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50147034",
+      "source": "hackernews",
+      "titleEn": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "domain": "flatwaterfreepress.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50166502",
+      "source": "hackernews",
+      "titleEn": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "domain": "yoyo-code.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50165801",
+      "source": "hackernews",
+      "titleEn": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "domain": "peec.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50170021",
+      "source": "hackernews",
+      "titleEn": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "domain": "anthropic.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50165484",
+      "source": "hackernews",
+      "titleEn": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "domain": "entropicthoughts.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50167732",
+      "source": "hackernews",
+      "titleEn": "Why do we have so many meetings?",
+      "url": "https://www.nber.org/papers/w35706",
+      "domain": "nber.org",
+      "reaction": 4
+    }
+  ]
+}
