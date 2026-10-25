@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-26",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50226419",
+      "source": "hackernews",
+      "titleEn": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50177916",
+      "source": "hackernews",
+      "titleEn": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "domain": "scotthelme.co.uk",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50180873",
+      "source": "hackernews",
+      "titleEn": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50181114",
+      "source": "hackernews",
+      "titleEn": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "domain": "safedep.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50188228",
+      "source": "hackernews",
+      "titleEn": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "domain": "blog.railway.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50186037",
+      "source": "hackernews",
+      "titleEn": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "domain": "claude.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50229587",
+      "source": "hackernews",
+      "titleEn": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "domain": "panamericandispatch.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50184586",
+      "source": "hackernews",
+      "titleEn": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "domain": "theverge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50186010",
+      "source": "hackernews",
+      "titleEn": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "domain": "google.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50175070",
+      "source": "hackernews",
+      "titleEn": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "domain": "joshwcomeau.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50172041",
+      "source": "hackernews",
+      "titleEn": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+      "domain": "php.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50184820",
+      "source": "hackernews",
+      "titleEn": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "domain": "cnbc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50182987",
+      "source": "hackernews",
+      "titleEn": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "domain": "thephp.foundation",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50234474",
+      "source": "hackernews",
+      "titleEn": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "domain": "imaginationlibrary.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50197108",
+      "source": "hackernews",
+      "titleEn": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "domain": "charliegerard.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50235017",
+      "source": "hackernews",
+      "titleEn": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "domain": "alfie.wtf",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50233779",
+      "source": "hackernews",
+      "titleEn": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "domain": "lynchlab.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50233929",
+      "source": "hackernews",
+      "titleEn": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "domain": "talkweb.eu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50234232",
+      "source": "hackernews",
+      "titleEn": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "domain": "theintercept.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50236102",
+      "source": "hackernews",
+      "titleEn": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "domain": "minimaxir.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50236081",
+      "source": "hackernews",
+      "titleEn": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "domain": "reuters.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50185534",
+      "source": "hackernews",
+      "titleEn": "Amazon's \"digital pacifier\" for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "domain": "oligarchwatch.substack.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50231166",
+      "source": "hackernews",
+      "titleEn": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
+      "domain": "dreamhoststatus.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50233294",
+      "source": "hackernews",
+      "titleEn": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50233304",
+      "source": "hackernews",
+      "titleEn": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "domain": "dailycal.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50227356",
+      "source": "hackernews",
+      "titleEn": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "domain": "cerebras.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50235217",
+      "source": "hackernews",
+      "titleEn": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "domain": "arstechnica.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50193936",
+      "source": "hackernews",
+      "titleEn": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "domain": "kottke.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50234329",
+      "source": "hackernews",
+      "titleEn": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "domain": "isburmistrov.substack.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50230384",
+      "source": "hackernews",
+      "titleEn": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "domain": "github.com",
+      "reaction": 4
+    }
+  ]
+}
