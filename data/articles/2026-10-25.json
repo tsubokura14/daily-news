@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-25",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50224463",
+      "source": "hackernews",
+      "titleEn": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50217495",
+      "source": "hackernews",
+      "titleEn": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "domain": "grapheneos.social",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50218633",
+      "source": "hackernews",
+      "titleEn": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50220913",
+      "source": "hackernews",
+      "titleEn": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "domain": "steveblank.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50170593",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "domain": "permit.petercai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50168396",
+      "source": "hackernews",
+      "titleEn": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "domain": "mistral.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50167536",
+      "source": "hackernews",
+      "titleEn": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "domain": "mastodon.gamedev.place",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50169707",
+      "source": "hackernews",
+      "titleEn": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "domain": "stevekrouse.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50225695",
+      "source": "hackernews",
+      "titleEn": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "domain": "danluu.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50224916",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "domain": "stealmybitcoin.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50224100",
+      "source": "hackernews",
+      "titleEn": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "domain": "aardappel.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50222622",
+      "source": "hackernews",
+      "titleEn": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "domain": "blog.roku.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50224422",
+      "source": "hackernews",
+      "titleEn": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "domain": "missileer.watch",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50222133",
+      "source": "hackernews",
+      "titleEn": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "domain": "freedns.afraid.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50219666",
+      "source": "hackernews",
+      "titleEn": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "domain": "southampton.ac.uk",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50219177",
+      "source": "hackernews",
+      "titleEn": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "domain": "aikido.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50186450",
+      "source": "hackernews",
+      "titleEn": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "domain": "scientificamerican.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50219700",
+      "source": "hackernews",
+      "titleEn": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50217500",
+      "source": "hackernews",
+      "titleEn": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "domain": "philipotoole.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50172962",
+      "source": "hackernews",
+      "titleEn": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "domain": "astral.sh",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50218195",
+      "source": "hackernews",
+      "titleEn": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "domain": "rtfeldman.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50171379",
+      "source": "hackernews",
+      "titleEn": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "domain": "danielball.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50223785",
+      "source": "hackernews",
+      "titleEn": "Dream-1",
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "domain": "dreamlabs.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50223647",
+      "source": "hackernews",
+      "titleEn": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "domain": "arxiv.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50224074",
+      "source": "hackernews",
+      "titleEn": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "domain": "reuters.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50217903",
+      "source": "hackernews",
+      "titleEn": "Apple Security Research Device",
+      "url": "https://security.apple.com/research-device/",
+      "domain": "security.apple.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50218430",
+      "source": "hackernews",
+      "titleEn": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50215530",
+      "source": "hackernews",
+      "titleEn": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "domain": "cve.0xosprey.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50176544",
+      "source": "hackernews",
+      "titleEn": "C vs. C#: racing VLC's Gaussian blur",
+      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "domain": "martinfinkel.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50217946",
+      "source": "hackernews",
+      "titleEn": "How Block Blast harvests its players for ad money",
+      "url": "https://ayoships.com/breakdowns/block-blast",
+      "domain": "ayoships.com",
+      "reaction": 4
+    }
+  ]
+}
