@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-27",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50248124",
+      "source": "hackernews",
+      "titleEn": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50242939",
+      "source": "hackernews",
+      "titleEn": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "domain": "sec.gov",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50245524",
+      "source": "hackernews",
+      "titleEn": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "domain": "seattletimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50240922",
+      "source": "hackernews",
+      "titleEn": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "domain": "blocks.manifold3d.ch",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50215997",
+      "source": "hackernews",
+      "titleEn": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "domain": "bbc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50238088",
+      "source": "hackernews",
+      "titleEn": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "domain": "theregister.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50190363",
+      "source": "hackernews",
+      "titleEn": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "domain": "simedw.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50237485",
+      "source": "hackernews",
+      "titleEn": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50197313",
+      "source": "hackernews",
+      "titleEn": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50192536",
+      "source": "hackernews",
+      "titleEn": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "domain": "pepsipu.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50193416",
+      "source": "hackernews",
+      "titleEn": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50198675",
+      "source": "hackernews",
+      "titleEn": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50196718",
+      "source": "hackernews",
+      "titleEn": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50194009",
+      "source": "hackernews",
+      "titleEn": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "domain": "arstechnica.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50195959",
+      "source": "hackernews",
+      "titleEn": "Quad9 to exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "domain": "quad9.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50194833",
+      "source": "hackernews",
+      "titleEn": "Woman charged with computer fraud due to scam CashApp account being in her name",
+      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+      "domain": "404media.co",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50195110",
+      "source": "hackernews",
+      "titleEn": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "domain": "emudhra.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50251344",
+      "source": "hackernews",
+      "titleEn": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "domain": "openai.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50251661",
+      "source": "hackernews",
+      "titleEn": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50245138",
+      "source": "hackernews",
+      "titleEn": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "domain": "magazine.sebastianraschka.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50248055",
+      "source": "hackernews",
+      "titleEn": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "domain": "blog.enlyth.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50248371",
+      "source": "hackernews",
+      "titleEn": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50245831",
+      "source": "hackernews",
+      "titleEn": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "domain": "css-tricks.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50247493",
+      "source": "hackernews",
+      "titleEn": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50246238",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50247928",
+      "source": "hackernews",
+      "titleEn": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "domain": "muratbuffalo.blogspot.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50245385",
+      "source": "hackernews",
+      "titleEn": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "domain": "bbc.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50243061",
+      "source": "hackernews",
+      "titleEn": "New iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "domain": "apple.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50236681",
+      "source": "hackernews",
+      "titleEn": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "domain": "shraiwi.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50200152",
+      "source": "hackernews",
+      "titleEn": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "domain": "humantransit.org",
+      "reaction": 4
+    }
+  ]
+}
