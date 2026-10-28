@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-28",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50261319",
+      "source": "hackernews",
+      "titleEn": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "domain": "deepmind.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50261998",
+      "source": "hackernews",
+      "titleEn": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "domain": "ghostty.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50261352",
+      "source": "hackernews",
+      "titleEn": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "domain": "apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50257419",
+      "source": "hackernews",
+      "titleEn": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "domain": "lwn.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50257326",
+      "source": "hackernews",
+      "titleEn": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "domain": "spectrum.ieee.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50258538",
+      "source": "hackernews",
+      "titleEn": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "domain": "apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50259604",
+      "source": "hackernews",
+      "titleEn": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50260814",
+      "source": "hackernews",
+      "titleEn": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "domain": "stanforddaily.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50261819",
+      "source": "hackernews",
+      "titleEn": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "domain": "gizmodo.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50255298",
+      "source": "hackernews",
+      "titleEn": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "domain": "j11g.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50257548",
+      "source": "hackernews",
+      "titleEn": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "domain": "bitlog.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50256985",
+      "source": "hackernews",
+      "titleEn": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "domain": "open3dlab.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50241664",
+      "source": "hackernews",
+      "titleEn": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "domain": "brennenputh.me",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50257325",
+      "source": "hackernews",
+      "titleEn": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "domain": "oioannou.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50212065",
+      "source": "hackernews",
+      "titleEn": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "domain": "kimi.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50211474",
+      "source": "hackernews",
+      "titleEn": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "domain": "blog.calif.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50207910",
+      "source": "hackernews",
+      "titleEn": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "domain": "music.apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50202681",
+      "source": "hackernews",
+      "titleEn": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "domain": "codeandcake.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50213925",
+      "source": "hackernews",
+      "titleEn": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "domain": "block.xyz",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50203161",
+      "source": "hackernews",
+      "titleEn": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "domain": "cs.utexas.edu",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50205934",
+      "source": "hackernews",
+      "titleEn": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "domain": "tvfandomlounge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50214218",
+      "source": "hackernews",
+      "titleEn": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "domain": "theverge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50264857",
+      "source": "hackernews",
+      "titleEn": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "domain": "tailscale.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50265609",
+      "source": "hackernews",
+      "titleEn": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "domain": "anthropic.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50264853",
+      "source": "hackernews",
+      "titleEn": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "domain": "brangus.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50265594",
+      "source": "hackernews",
+      "titleEn": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "domain": "bret.dk",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50239214",
+      "source": "hackernews",
+      "titleEn": "SS United States to be sunk as largest artificial reef",
+      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "domain": "divemagazine.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50261647",
+      "source": "hackernews",
+      "titleEn": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "domain": "cfsg.axiommath.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50262229",
+      "source": "hackernews",
+      "titleEn": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "domain": "liquid.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50245014",
+      "source": "hackernews",
+      "titleEn": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "domain": "hothardware.com",
+      "reaction": 4
+    }
+  ]
+}
