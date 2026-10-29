@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-29",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50276998",
+      "source": "hackernews",
+      "titleEn": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "domain": "nullpt.rs",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50276792",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "domain": "blog.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50276940",
+      "source": "hackernews",
+      "titleEn": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "domain": "apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50243060",
+      "source": "hackernews",
+      "titleEn": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "domain": "circuithub.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50208960",
+      "source": "hackernews",
+      "titleEn": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "domain": "vertex.degree",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50271640",
+      "source": "hackernews",
+      "titleEn": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "domain": "emudhra.we-have-a-problem.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50273396",
+      "source": "hackernews",
+      "titleEn": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "domain": "religionnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50268380",
+      "source": "hackernews",
+      "titleEn": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "domain": "lexifina.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50272749",
+      "source": "hackernews",
+      "titleEn": "Evidence of a spying operation by ICE against left-wing social movements",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50225695",
+      "source": "hackernews",
+      "titleEn": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "domain": "danluu.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50261589",
+      "source": "hackernews",
+      "titleEn": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "domain": "futurism.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50224100",
+      "source": "hackernews",
+      "titleEn": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "domain": "aardappel.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50219177",
+      "source": "hackernews",
+      "titleEn": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "url": "https://broccoli2shell.com/",
+      "domain": "broccoli2shell.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50217495",
+      "source": "hackernews",
+      "titleEn": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "domain": "grapheneos.social",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50219666",
+      "source": "hackernews",
+      "titleEn": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "domain": "southampton.ac.uk",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50218430",
+      "source": "hackernews",
+      "titleEn": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50218633",
+      "source": "hackernews",
+      "titleEn": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50224916",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "domain": "stealmybitcoin.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50224463",
+      "source": "hackernews",
+      "titleEn": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50274409",
+      "source": "hackernews",
+      "titleEn": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "domain": "carmelitegothic.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50281044",
+      "source": "hackernews",
+      "titleEn": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "domain": "formlabs.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50275626",
+      "source": "hackernews",
+      "titleEn": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "domain": "surgehq.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50274251",
+      "source": "hackernews",
+      "titleEn": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "domain": "wiki.alpinebsd.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50282454",
+      "source": "hackernews",
+      "titleEn": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "domain": "data.stackexchange.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50280722",
+      "source": "hackernews",
+      "titleEn": "The case of the 9 bit AES key",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "domain": "v12.sh",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50273731",
+      "source": "hackernews",
+      "titleEn": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "domain": "cursor.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50273171",
+      "source": "hackernews",
+      "titleEn": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "domain": "technologyreview.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50275373",
+      "source": "hackernews",
+      "titleEn": "Archive.today links going forward",
+      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "domain": "reddit.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50272145",
+      "source": "hackernews",
+      "titleEn": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "domain": "reuters.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50234796",
+      "source": "hackernews",
+      "titleEn": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "domain": "arstechnica.com",
+      "reaction": 4
+    }
+  ]
+}
