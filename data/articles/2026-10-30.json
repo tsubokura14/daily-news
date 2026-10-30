@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-30",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50296470",
+      "source": "hackernews",
+      "titleEn": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "domain": "arkm.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50289418",
+      "source": "hackernews",
+      "titleEn": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "domain": "mistral.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50294702",
+      "source": "hackernews",
+      "titleEn": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50287919",
+      "source": "hackernews",
+      "titleEn": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "domain": "about.doordash.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50290668",
+      "source": "hackernews",
+      "titleEn": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "domain": "washingtonpost.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50291945",
+      "source": "hackernews",
+      "titleEn": "Google Search is now less than half of Alphabet’s revenue",
+      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "domain": "kadoa.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50282838",
+      "source": "hackernews",
+      "titleEn": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "domain": "divagr.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50280864",
+      "source": "hackernews",
+      "titleEn": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50288867",
+      "source": "hackernews",
+      "titleEn": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+      "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50284255",
+      "source": "hackernews",
+      "titleEn": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "domain": "gist.github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50251200",
+      "source": "hackernews",
+      "titleEn": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "domain": "the-decoder.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50234474",
+      "source": "hackernews",
+      "titleEn": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "domain": "imaginationlibrary.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50233929",
+      "source": "hackernews",
+      "titleEn": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "domain": "talkweb.eu",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50236102",
+      "source": "hackernews",
+      "titleEn": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "domain": "minimaxir.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50234232",
+      "source": "hackernews",
+      "titleEn": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "domain": "theintercept.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50233779",
+      "source": "hackernews",
+      "titleEn": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "domain": "lynchlab.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50226419",
+      "source": "hackernews",
+      "titleEn": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50296486",
+      "source": "hackernews",
+      "titleEn": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "domain": "labs.ycombinator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50291054",
+      "source": "hackernews",
+      "titleEn": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "domain": "sidbala.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50290177",
+      "source": "hackernews",
+      "titleEn": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "domain": "martinfowler.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50294506",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50286987",
+      "source": "hackernews",
+      "titleEn": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "domain": "dreamgroup.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50287775",
+      "source": "hackernews",
+      "titleEn": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "domain": "iptrust.co",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50286197",
+      "source": "hackernews",
+      "titleEn": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "domain": "bbc.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50290912",
+      "source": "hackernews",
+      "titleEn": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "domain": "skypilot.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50290283",
+      "source": "hackernews",
+      "titleEn": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "domain": "trakkr.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50287599",
+      "source": "hackernews",
+      "titleEn": "NetBSD adds a new text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "domain": "mastodon.sdf.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50293047",
+      "source": "hackernews",
+      "titleEn": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "domain": "nypost.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50233059",
+      "source": "hackernews",
+      "titleEn": "If-then-else had to be invented (2020)",
+      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50292727",
+      "source": "hackernews",
+      "titleEn": "Claude Duet is the first personal-assistant-type harness that feels useful",
+      "url": "https://fig.blue/posts/duet-is-the-future/",
+      "domain": "fig.blue",
+      "reaction": 4
+    }
+  ]
+}
