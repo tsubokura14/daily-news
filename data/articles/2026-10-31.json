@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-31",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50300683",
+      "source": "hackernews",
+      "titleEn": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "domain": "phorion.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50305025",
+      "source": "hackernews",
+      "titleEn": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "domain": "status.northflank.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50305693",
+      "source": "hackernews",
+      "titleEn": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "domain": "newsletter.signoz.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50298436",
+      "source": "hackernews",
+      "titleEn": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50302814",
+      "source": "hackernews",
+      "titleEn": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "domain": "progressives.house.gov",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50301462",
+      "source": "hackernews",
+      "titleEn": "elect.horse",
+      "url": "https://elect.horse/",
+      "domain": "elect.horse",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50288019",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "domain": "artificialanalysis.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50251344",
+      "source": "hackernews",
+      "titleEn": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50245138",
+      "source": "hackernews",
+      "titleEn": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "domain": "magazine.sebastianraschka.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50251661",
+      "source": "hackernews",
+      "titleEn": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50245385",
+      "source": "hackernews",
+      "titleEn": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "domain": "bbc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50245524",
+      "source": "hackernews",
+      "titleEn": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "domain": "seattletimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50248055",
+      "source": "hackernews",
+      "titleEn": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "domain": "blog.enlyth.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50248124",
+      "source": "hackernews",
+      "titleEn": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50243061",
+      "source": "hackernews",
+      "titleEn": "New iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "domain": "apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50242939",
+      "source": "hackernews",
+      "titleEn": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "domain": "sec.gov",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50240922",
+      "source": "hackernews",
+      "titleEn": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "domain": "blocks.manifold3d.ch",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50238088",
+      "source": "hackernews",
+      "titleEn": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "domain": "theregister.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50307190",
+      "source": "hackernews",
+      "titleEn": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "domain": "virtuallyfun.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50309029",
+      "source": "hackernews",
+      "titleEn": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "domain": "blog.persistent.info",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50263837",
+      "source": "hackernews",
+      "titleEn": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "domain": "techpolicy.press",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50303172",
+      "source": "hackernews",
+      "titleEn": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "domain": "wired.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50306442",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50309266",
+      "source": "hackernews",
+      "titleEn": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "domain": "sciencenorway.no",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50305637",
+      "source": "hackernews",
+      "titleEn": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50305573",
+      "source": "hackernews",
+      "titleEn": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "domain": "tangled.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50309647",
+      "source": "hackernews",
+      "titleEn": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "domain": "bostonglobe.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50301854",
+      "source": "hackernews",
+      "titleEn": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "domain": "binarysecurity.no",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50310687",
+      "source": "hackernews",
+      "titleEn": "Linode Security Incident",
+      "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "domain": "status.linode.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50296730",
+      "source": "hackernews",
+      "titleEn": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "domain": "twitter.com",
+      "reaction": 4
+    }
+  ]
+}
