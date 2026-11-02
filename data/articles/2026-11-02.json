@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-02",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50326821",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "domain": "hackerbooks.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50327650",
+      "source": "hackernews",
+      "titleEn": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "domain": "vox.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50320995",
+      "source": "hackernews",
+      "titleEn": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50324388",
+      "source": "hackernews",
+      "titleEn": "Restrooms along the Norwegian Scenic Routes",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "domain": "visitnorway.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50313661",
+      "source": "hackernews",
+      "titleEn": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "domain": "vitalik.eth.limo",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50276998",
+      "source": "hackernews",
+      "titleEn": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "domain": "nullpt.rs",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50282454",
+      "source": "hackernews",
+      "titleEn": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "domain": "data.stackexchange.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50276792",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "domain": "blog.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50271640",
+      "source": "hackernews",
+      "titleEn": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "domain": "emudhra.we-have-a-problem.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50274409",
+      "source": "hackernews",
+      "titleEn": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "domain": "carmelitegothic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50276940",
+      "source": "hackernews",
+      "titleEn": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "domain": "apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50273171",
+      "source": "hackernews",
+      "titleEn": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "domain": "technologyreview.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50268380",
+      "source": "hackernews",
+      "titleEn": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "domain": "lexifina.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50273396",
+      "source": "hackernews",
+      "titleEn": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "domain": "religionnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50272749",
+      "source": "hackernews",
+      "titleEn": "Evidence of a spying operation by ICE against left-wing social movements",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50328896",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "domain": "news.ycombinator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50330456",
+      "source": "hackernews",
+      "titleEn": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "domain": "techcrunch.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50325253",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50328251",
+      "source": "hackernews",
+      "titleEn": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "domain": "terrytao.wordpress.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50308754",
+      "source": "hackernews",
+      "titleEn": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "domain": "tibleiz.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50325454",
+      "source": "hackernews",
+      "titleEn": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "domain": "arxiv.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50326099",
+      "source": "hackernews",
+      "titleEn": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "domain": "reddit.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50319749",
+      "source": "hackernews",
+      "titleEn": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "domain": "jefftk.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50314617",
+      "source": "hackernews",
+      "titleEn": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "domain": "nature.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50325694",
+      "source": "hackernews",
+      "titleEn": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "domain": "movq.de",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50323088",
+      "source": "hackernews",
+      "titleEn": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "domain": "nolanlawson.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50280131",
+      "source": "hackernews",
+      "titleEn": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "domain": "radiaverse.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50327058",
+      "source": "hackernews",
+      "titleEn": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "domain": "semiconductor-today.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50290533",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "domain": "outcrop.rocks",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50327266",
+      "source": "hackernews",
+      "titleEn": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "domain": "reddit.com",
+      "reaction": 4
+    }
+  ]
+}
