@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-04",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50339288",
+      "source": "hackernews",
+      "titleEn": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "domain": "blog.nns.ee",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50355251",
+      "source": "hackernews",
+      "titleEn": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "domain": "simonwillison.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50354960",
+      "source": "hackernews",
+      "titleEn": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50349276",
+      "source": "hackernews",
+      "titleEn": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "domain": "nicholas.carlini.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50351111",
+      "source": "hackernews",
+      "titleEn": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "domain": "honnibal.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50353192",
+      "source": "hackernews",
+      "titleEn": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50353229",
+      "source": "hackernews",
+      "titleEn": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "domain": "arstechnica.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50341462",
+      "source": "hackernews",
+      "titleEn": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "domain": "freenode.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50339494",
+      "source": "hackernews",
+      "titleEn": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "domain": "businessinsider.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50300683",
+      "source": "hackernews",
+      "titleEn": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "domain": "phorion.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50296486",
+      "source": "hackernews",
+      "titleEn": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "domain": "labs.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50303172",
+      "source": "hackernews",
+      "titleEn": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50305025",
+      "source": "hackernews",
+      "titleEn": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "domain": "status.northflank.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50309647",
+      "source": "hackernews",
+      "titleEn": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "domain": "bostonglobe.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50305693",
+      "source": "hackernews",
+      "titleEn": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "domain": "newsletter.signoz.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50298436",
+      "source": "hackernews",
+      "titleEn": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50344181",
+      "source": "hackernews",
+      "titleEn": "BYD sold more EVs last month than the US did all quarter",
+      "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+      "domain": "electrek.co",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50288019",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "domain": "artificialanalysis.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50354358",
+      "source": "hackernews",
+      "titleEn": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "domain": "neufangled.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50358562",
+      "source": "hackernews",
+      "titleEn": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "domain": "webkit.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50346755",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "domain": "hackertv.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50336918",
+      "source": "hackernews",
+      "titleEn": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "domain": "arstechnica.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50358582",
+      "source": "hackernews",
+      "titleEn": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "domain": "arxiv.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50358422",
+      "source": "hackernews",
+      "titleEn": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "domain": "asia.nikkei.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50355767",
+      "source": "hackernews",
+      "titleEn": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "domain": "ben.stolovitz.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50356944",
+      "source": "hackernews",
+      "titleEn": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "domain": "wadetregaskis.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50352758",
+      "source": "hackernews",
+      "titleEn": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "domain": "namespace.so",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50356994",
+      "source": "hackernews",
+      "titleEn": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "domain": "flipper.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50334363",
+      "source": "hackernews",
+      "titleEn": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "url": "https://www.mattkeeter.com/projects/antimony/3/",
+      "domain": "mattkeeter.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50352577",
+      "source": "hackernews",
+      "titleEn": "Practice speaking Japanese with real YouTube videos, graded line by line",
+      "url": "https://jivx.com/yt",
+      "domain": "jivx.com",
+      "reaction": 4
+    }
+  ]
+}
