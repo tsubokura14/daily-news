@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-05",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50371246",
+      "source": "hackernews",
+      "titleEn": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "domain": "layer3intel.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50364336",
+      "source": "hackernews",
+      "titleEn": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "domain": "spectrum.ieee.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50367125",
+      "source": "hackernews",
+      "titleEn": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "domain": "tomshardware.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50365755",
+      "source": "hackernews",
+      "titleEn": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "domain": "theregister.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50363461",
+      "source": "hackernews",
+      "titleEn": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50362905",
+      "source": "hackernews",
+      "titleEn": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "domain": "mindstudio.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50362980",
+      "source": "hackernews",
+      "titleEn": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "domain": "sw.kovidgoyal.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50360164",
+      "source": "hackernews",
+      "titleEn": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "domain": "andreasfertig.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50319510",
+      "source": "hackernews",
+      "titleEn": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "domain": "karpathy.bearblog.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50352757",
+      "source": "hackernews",
+      "titleEn": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50363554",
+      "source": "hackernews",
+      "titleEn": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "domain": "theguardian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50346981",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "domain": "hackertimes.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50320963",
+      "source": "hackernews",
+      "titleEn": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "domain": "smithsonianmag.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50319143",
+      "source": "hackernews",
+      "titleEn": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "domain": "atlasum.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50365982",
+      "source": "hackernews",
+      "titleEn": "US voters roundly reject data centers in ballot measures",
+      "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "domain": "semafor.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50322173",
+      "source": "hackernews",
+      "titleEn": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "domain": "jetstream.security",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50314654",
+      "source": "hackernews",
+      "titleEn": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "domain": "science.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50319358",
+      "source": "hackernews",
+      "titleEn": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50316100",
+      "source": "hackernews",
+      "titleEn": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "domain": "jepsen.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50304122",
+      "source": "hackernews",
+      "titleEn": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "domain": "fortune.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50372945",
+      "source": "hackernews",
+      "titleEn": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "domain": "openai.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50372929",
+      "source": "hackernews",
+      "titleEn": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "domain": "openai.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50369925",
+      "source": "hackernews",
+      "titleEn": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "domain": "ricursive.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50366999",
+      "source": "hackernews",
+      "titleEn": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "domain": "huggingface.co",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50370610",
+      "source": "hackernews",
+      "titleEn": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "domain": "birdsoutsidemywindow.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50369106",
+      "source": "hackernews",
+      "titleEn": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "domain": "go.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50370654",
+      "source": "hackernews",
+      "titleEn": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "domain": "qualcomm.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50369503",
+      "source": "hackernews",
+      "titleEn": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "domain": "conductor.build",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50368626",
+      "source": "hackernews",
+      "titleEn": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "domain": "anthropic.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50366522",
+      "source": "hackernews",
+      "titleEn": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "domain": "99percentinvisible.org",
+      "reaction": 4
+    }
+  ]
+}
