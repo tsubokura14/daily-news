@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-06",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50385272",
+      "source": "hackernews",
+      "titleEn": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50383740",
+      "source": "hackernews",
+      "titleEn": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "domain": "kagi.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378228",
+      "source": "hackernews",
+      "titleEn": "sshole",
+      "url": "https://sshhole.com",
+      "domain": "sshhole.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50379704",
+      "source": "hackernews",
+      "titleEn": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "domain": "alpinelinux.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50383739",
+      "source": "hackernews",
+      "titleEn": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "domain": "salon.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50380810",
+      "source": "hackernews",
+      "titleEn": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "domain": "motorolanews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378942",
+      "source": "hackernews",
+      "titleEn": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "domain": "rakhim.exotext.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378625",
+      "source": "hackernews",
+      "titleEn": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "domain": "theverge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50366117",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50326821",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "domain": "hackerbooks.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50328896",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50328251",
+      "source": "hackernews",
+      "titleEn": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "domain": "terrytao.wordpress.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50327650",
+      "source": "hackernews",
+      "titleEn": "Patrick Stewart taught us what good men do with power",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "domain": "vox.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50384233",
+      "source": "hackernews",
+      "titleEn": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "domain": "cve.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50383057",
+      "source": "hackernews",
+      "titleEn": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "domain": "naut.ca",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50381383",
+      "source": "hackernews",
+      "titleEn": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50381687",
+      "source": "hackernews",
+      "titleEn": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50368208",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "domain": "linum.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50385870",
+      "source": "hackernews",
+      "titleEn": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50379576",
+      "source": "hackernews",
+      "titleEn": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "domain": "servo.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50378571",
+      "source": "hackernews",
+      "titleEn": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "domain": "criminallyvulgar.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50377976",
+      "source": "hackernews",
+      "titleEn": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "domain": "openssh.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50376313",
+      "source": "hackernews",
+      "titleEn": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "domain": "alignment.openai.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50379249",
+      "source": "hackernews",
+      "titleEn": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "domain": "mcp-explained.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50378508",
+      "source": "hackernews",
+      "titleEn": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "domain": "phoboslab.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50381033",
+      "source": "hackernews",
+      "titleEn": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "domain": "claude.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50383163",
+      "source": "hackernews",
+      "titleEn": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "domain": "euronews.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50377078",
+      "source": "hackernews",
+      "titleEn": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "domain": "ernie.baidu.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50349667",
+      "source": "hackernews",
+      "titleEn": "The Lisp curse, now coming to your ecosystem",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "domain": "javahippie.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50380658",
+      "source": "hackernews",
+      "titleEn": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "domain": "kadhar.dev",
+      "reaction": 4
+    }
+  ]
+}
