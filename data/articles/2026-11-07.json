@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-07",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50391456",
+      "source": "hackernews",
+      "titleEn": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "domain": "nbcnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50394906",
+      "source": "hackernews",
+      "titleEn": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "domain": "bloomberg.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50390124",
+      "source": "hackernews",
+      "titleEn": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50389333",
+      "source": "hackernews",
+      "titleEn": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50389222",
+      "source": "hackernews",
+      "titleEn": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50341174",
+      "source": "hackernews",
+      "titleEn": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "domain": "rikiyat.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50344919",
+      "source": "hackernews",
+      "titleEn": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "domain": "techpolicy.press",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50399933",
+      "source": "hackernews",
+      "titleEn": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "domain": "mitchellh.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50397429",
+      "source": "hackernews",
+      "titleEn": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "domain": "hightouch.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50397219",
+      "source": "hackernews",
+      "titleEn": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "domain": "pwn.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50388001",
+      "source": "hackernews",
+      "titleEn": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "domain": "reuters.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50397994",
+      "source": "hackernews",
+      "titleEn": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50399657",
+      "source": "hackernews",
+      "titleEn": "Sodium-ion batteries approach cost parity with LFP",
+      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "domain": "pv-magazine.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50394855",
+      "source": "hackernews",
+      "titleEn": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "domain": "kevinboone.me",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50397017",
+      "source": "hackernews",
+      "titleEn": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "domain": "infohawk.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50395450",
+      "source": "hackernews",
+      "titleEn": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "domain": "devvm.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50392118",
+      "source": "hackernews",
+      "titleEn": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "domain": "blog.google",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50389570",
+      "source": "hackernews",
+      "titleEn": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "domain": "norvig.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50393758",
+      "source": "hackernews",
+      "titleEn": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "domain": "filfre.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50394569",
+      "source": "hackernews",
+      "titleEn": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50388122",
+      "source": "hackernews",
+      "titleEn": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "domain": "thereader.mitpress.mit.edu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50391145",
+      "source": "hackernews",
+      "titleEn": "We've built an open-source feature flag server for 11 years",
+      "url": "https://github.com/Unleash/unleash",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50390525",
+      "source": "hackernews",
+      "titleEn": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "domain": "jhr.pensoft.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50389370",
+      "source": "hackernews",
+      "titleEn": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "domain": "apps.metaebene.me",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50354308",
+      "source": "hackernews",
+      "titleEn": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+      "domain": "utcc.utoronto.ca",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50396064",
+      "source": "hackernews",
+      "titleEn": "We know 15k websites are infected. how do we tell them?",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "domain": "scotthelme.co.uk",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50397264",
+      "source": "hackernews",
+      "titleEn": "As the Japanese countryside empties out, wildlife is disappearing",
+      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+      "domain": "e360.yale.edu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50387796",
+      "source": "hackernews",
+      "titleEn": "Pwn.college",
+      "url": "https://pwn.college/",
+      "domain": "pwn.college",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50389990",
+      "source": "hackernews",
+      "titleEn": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "domain": "anthropic.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50393105",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: What in the world is taking Ubuntu so long?",
+      "url": "https://news.ycombinator.com/item?id=50393105",
+      "domain": "news.ycombinator.com",
+      "reaction": 4
+    }
+  ]
+}
