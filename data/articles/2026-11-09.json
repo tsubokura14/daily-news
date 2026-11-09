@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-09",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50415628",
+      "source": "hackernews",
+      "titleEn": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "domain": "thestateofai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50418016",
+      "source": "hackernews",
+      "titleEn": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "domain": "axios.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50410107",
+      "source": "hackernews",
+      "titleEn": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "domain": "caleb.software",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50416801",
+      "source": "hackernews",
+      "titleEn": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "domain": "nvidianews.nvidia.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50364336",
+      "source": "hackernews",
+      "titleEn": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "domain": "spectrum.ieee.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50366999",
+      "source": "hackernews",
+      "titleEn": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "domain": "huggingface.co",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50363461",
+      "source": "hackernews",
+      "titleEn": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50362905",
+      "source": "hackernews",
+      "titleEn": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "domain": "mindstudio.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50367125",
+      "source": "hackernews",
+      "titleEn": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "domain": "tomshardware.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50372929",
+      "source": "hackernews",
+      "titleEn": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50369106",
+      "source": "hackernews",
+      "titleEn": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "domain": "go.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50372945",
+      "source": "hackernews",
+      "titleEn": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50365755",
+      "source": "hackernews",
+      "titleEn": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "domain": "theregister.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50371246",
+      "source": "hackernews",
+      "titleEn": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "domain": "layer3intel.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50362980",
+      "source": "hackernews",
+      "titleEn": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "domain": "sw.kovidgoyal.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50366522",
+      "source": "hackernews",
+      "titleEn": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "domain": "99percentinvisible.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50352757",
+      "source": "hackernews",
+      "titleEn": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50360164",
+      "source": "hackernews",
+      "titleEn": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "domain": "andreasfertig.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50403214",
+      "source": "hackernews",
+      "titleEn": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "domain": "uploadyourram.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50418176",
+      "source": "hackernews",
+      "titleEn": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "domain": "ketchup3d.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50417407",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "domain": "news.ycombinator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50416053",
+      "source": "hackernews",
+      "titleEn": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "domain": "duxlabs.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50368481",
+      "source": "hackernews",
+      "titleEn": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "domain": "declarative-dragging.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50416158",
+      "source": "hackernews",
+      "titleEn": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "domain": "mailroute.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50416456",
+      "source": "hackernews",
+      "titleEn": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "domain": "ftrain.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50411961",
+      "source": "hackernews",
+      "titleEn": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50412067",
+      "source": "hackernews",
+      "titleEn": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "domain": "muratbuffalo.blogspot.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50362963",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Vegetable Gardening for Engineers",
+      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "domain": "jrcpl.us",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50416363",
+      "source": "hackernews",
+      "titleEn": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "domain": "sergeykuhne.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50413769",
+      "source": "hackernews",
+      "titleEn": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "domain": "goldstein.lol",
+      "reaction": 4
+    }
+  ]
+}
