@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-10",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50429068",
+      "source": "hackernews",
+      "titleEn": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50431058",
+      "source": "hackernews",
+      "titleEn": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "domain": "postalpro.usps.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50427362",
+      "source": "hackernews",
+      "titleEn": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "domain": "payments.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50424581",
+      "source": "hackernews",
+      "titleEn": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "domain": "foldableflight.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50431144",
+      "source": "hackernews",
+      "titleEn": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "domain": "artificialanalysis.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50422069",
+      "source": "hackernews",
+      "titleEn": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50428801",
+      "source": "hackernews",
+      "titleEn": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "domain": "cnx-software.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50419215",
+      "source": "hackernews",
+      "titleEn": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "domain": "shubs.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50426582",
+      "source": "hackernews",
+      "titleEn": "I saw your HN comment",
+      "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "domain": "joshstrange.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50418975",
+      "source": "hackernews",
+      "titleEn": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "domain": "matteoraso.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50420035",
+      "source": "hackernews",
+      "titleEn": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "domain": "aphyr.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378228",
+      "source": "hackernews",
+      "titleEn": "sshole",
+      "url": "https://sshhole.com",
+      "domain": "sshhole.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50429475",
+      "source": "hackernews",
+      "titleEn": "Too many men suffering in silence, national health report finds (Canada)",
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+      "domain": "westcentralonline.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50424704",
+      "source": "hackernews",
+      "titleEn": "Humans will never again create a project quite like Wikipedia",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "domain": "economist.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50385272",
+      "source": "hackernews",
+      "titleEn": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50384233",
+      "source": "hackernews",
+      "titleEn": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "domain": "cve.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50385870",
+      "source": "hackernews",
+      "titleEn": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50381383",
+      "source": "hackernews",
+      "titleEn": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50383739",
+      "source": "hackernews",
+      "titleEn": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "domain": "salon.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378625",
+      "source": "hackernews",
+      "titleEn": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "domain": "theverge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50376313",
+      "source": "hackernews",
+      "titleEn": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "domain": "alignment.openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378942",
+      "source": "hackernews",
+      "titleEn": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "domain": "rakhim.exotext.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50380810",
+      "source": "hackernews",
+      "titleEn": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "domain": "motorolanews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50383740",
+      "source": "hackernews",
+      "titleEn": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "domain": "kagi.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50378571",
+      "source": "hackernews",
+      "titleEn": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "domain": "criminallyvulgar.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50383057",
+      "source": "hackernews",
+      "titleEn": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "domain": "naut.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50429734",
+      "source": "hackernews",
+      "titleEn": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "domain": "e-means.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50433541",
+      "source": "hackernews",
+      "titleEn": "Exact – a new cross platform UI framework",
+      "url": "https://github.com/expo/exact",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50426175",
+      "source": "hackernews",
+      "titleEn": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "domain": "anthropocenemagazine.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50429430",
+      "source": "hackernews",
+      "titleEn": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "domain": "infineon.com",
+      "reaction": 4
+    }
+  ]
+}
