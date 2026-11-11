@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-11",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50442736",
+      "source": "hackernews",
+      "titleEn": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "domain": "neil.fraser.name",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50445401",
+      "source": "hackernews",
+      "titleEn": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "domain": "theautopian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50441707",
+      "source": "hackernews",
+      "titleEn": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "domain": "docodethatmatters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50439193",
+      "source": "hackernews",
+      "titleEn": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "domain": "deepmind.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50439695",
+      "source": "hackernews",
+      "titleEn": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "domain": "ableton.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50438318",
+      "source": "hackernews",
+      "titleEn": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "domain": "evanxmerz.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50436640",
+      "source": "hackernews",
+      "titleEn": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "domain": "strandsagents.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50429426",
+      "source": "hackernews",
+      "titleEn": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50433659",
+      "source": "hackernews",
+      "titleEn": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "domain": "notesbylex.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50399933",
+      "source": "hackernews",
+      "titleEn": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "domain": "mitchellh.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50428724",
+      "source": "hackernews",
+      "titleEn": "Going back two years on Hacker News is like entering another, better universe",
+      "url": "https://news.ycombinator.com/front?day=2024-11-08",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50391456",
+      "source": "hackernews",
+      "titleEn": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "domain": "nbcnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50392118",
+      "source": "hackernews",
+      "titleEn": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "domain": "blog.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50397429",
+      "source": "hackernews",
+      "titleEn": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "domain": "hightouch.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50389333",
+      "source": "hackernews",
+      "titleEn": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50390124",
+      "source": "hackernews",
+      "titleEn": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50388001",
+      "source": "hackernews",
+      "titleEn": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50389222",
+      "source": "hackernews",
+      "titleEn": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50394906",
+      "source": "hackernews",
+      "titleEn": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "domain": "bloomberg.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50393758",
+      "source": "hackernews",
+      "titleEn": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "domain": "filfre.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50397994",
+      "source": "hackernews",
+      "titleEn": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50447074",
+      "source": "hackernews",
+      "titleEn": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "domain": "vulncheck.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50446246",
+      "source": "hackernews",
+      "titleEn": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "domain": "teorth.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50443824",
+      "source": "hackernews",
+      "titleEn": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "domain": "lwn.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50444129",
+      "source": "hackernews",
+      "titleEn": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "domain": "starlink.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50443427",
+      "source": "hackernews",
+      "titleEn": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "domain": "blog.val.town",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50443812",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50445013",
+      "source": "hackernews",
+      "titleEn": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "domain": "alexwang.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50443090",
+      "source": "hackernews",
+      "titleEn": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "domain": "chipsandcheese.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50444684",
+      "source": "hackernews",
+      "titleEn": "A comprehensive study of how fingerprintable users are",
+      "url": "https://fingerprinting.study/",
+      "domain": "fingerprinting.study",
+      "reaction": 4
+    }
+  ]
+}
