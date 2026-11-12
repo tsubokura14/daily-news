@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-12",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50456631",
+      "source": "hackernews",
+      "titleEn": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50450488",
+      "source": "hackernews",
+      "titleEn": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "domain": "discuss.python.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50458900",
+      "source": "hackernews",
+      "titleEn": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "domain": "cbsnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50455394",
+      "source": "hackernews",
+      "titleEn": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "domain": "michael.bacarella.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50452455",
+      "source": "hackernews",
+      "titleEn": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "domain": "pietromiotti.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50459703",
+      "source": "hackernews",
+      "titleEn": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "domain": "wsj.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50446520",
+      "source": "hackernews",
+      "titleEn": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "domain": "9to5mac.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50453474",
+      "source": "hackernews",
+      "titleEn": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "domain": "theverge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50438480",
+      "source": "hackernews",
+      "titleEn": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "domain": "theatlantic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50442225",
+      "source": "hackernews",
+      "titleEn": "Announcing .NET 11",
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "domain": "devblogs.microsoft.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50406670",
+      "source": "hackernews",
+      "titleEn": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "domain": "blog.bosscher.ch",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50403052",
+      "source": "hackernews",
+      "titleEn": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "domain": "nfsu2.xyz",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50407882",
+      "source": "hackernews",
+      "titleEn": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "domain": "apiiro.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50406111",
+      "source": "hackernews",
+      "titleEn": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "domain": "theguardian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50406563",
+      "source": "hackernews",
+      "titleEn": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "domain": "hunch.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50403097",
+      "source": "hackernews",
+      "titleEn": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "domain": "8rank.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50403507",
+      "source": "hackernews",
+      "titleEn": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "domain": "windowslatest.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50401867",
+      "source": "hackernews",
+      "titleEn": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "domain": "asahilinux.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50401740",
+      "source": "hackernews",
+      "titleEn": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "domain": "science.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50373308",
+      "source": "hackernews",
+      "titleEn": "Starfall – Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "domain": "spacex.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50412318",
+      "source": "hackernews",
+      "titleEn": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "domain": "krthr.co",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50459745",
+      "source": "hackernews",
+      "titleEn": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "domain": "mcmillen.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50459485",
+      "source": "hackernews",
+      "titleEn": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "domain": "hugovk.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50456791",
+      "source": "hackernews",
+      "titleEn": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "domain": "blog.google",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50458208",
+      "source": "hackernews",
+      "titleEn": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "domain": "commandlinesystems.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50457618",
+      "source": "hackernews",
+      "titleEn": "The Utah Teapot",
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "domain": "graphics.cs.utah.edu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50457230",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "domain": "termsheetplease.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50455633",
+      "source": "hackernews",
+      "titleEn": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "domain": "machinelearning.apple.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50459321",
+      "source": "hackernews",
+      "titleEn": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "domain": "nytimes.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50453288",
+      "source": "hackernews",
+      "titleEn": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "domain": "av.github.io",
+      "reaction": 4
+    }
+  ]
+}
