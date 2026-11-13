@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-13",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50467087",
+      "source": "hackernews",
+      "titleEn": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "domain": "apnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50472038",
+      "source": "hackernews",
+      "titleEn": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "domain": "blog.rust-lang.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50471731",
+      "source": "hackernews",
+      "titleEn": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "domain": "status.cloud.microsoft",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50471431",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "domain": "blog.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50465829",
+      "source": "hackernews",
+      "titleEn": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "domain": "ipo.anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50465352",
+      "source": "hackernews",
+      "titleEn": "Writing correct software is hard and math alone won’t help us (2016)",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "domain": "pron.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50438261",
+      "source": "hackernews",
+      "titleEn": "Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50462177",
+      "source": "hackernews",
+      "titleEn": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "domain": "wiz.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50463899",
+      "source": "hackernews",
+      "titleEn": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "domain": "forums.spacebattles.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50443716",
+      "source": "hackernews",
+      "titleEn": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "domain": "claude.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50418176",
+      "source": "hackernews",
+      "titleEn": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "domain": "ketchup3d.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50417407",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50418016",
+      "source": "hackernews",
+      "titleEn": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "domain": "nvidianews.nvidia.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50415628",
+      "source": "hackernews",
+      "titleEn": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "domain": "thestateofai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50416158",
+      "source": "hackernews",
+      "titleEn": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "domain": "mailroute.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50410107",
+      "source": "hackernews",
+      "titleEn": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "domain": "caleb.software",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50412067",
+      "source": "hackernews",
+      "titleEn": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "domain": "muratbuffalo.blogspot.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50411961",
+      "source": "hackernews",
+      "titleEn": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50416363",
+      "source": "hackernews",
+      "titleEn": "How I'm fighting the AI brain fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "domain": "sergeykuhne.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50472260",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "domain": "antigravity.google",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50470488",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50472490",
+      "source": "hackernews",
+      "titleEn": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "domain": "smithsonianmag.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50474361",
+      "source": "hackernews",
+      "titleEn": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "domain": "developer.apple.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50471761",
+      "source": "hackernews",
+      "titleEn": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "domain": "mehmetince.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50468888",
+      "source": "hackernews",
+      "titleEn": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50474311",
+      "source": "hackernews",
+      "titleEn": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "domain": "synthanatomy.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50467618",
+      "source": "hackernews",
+      "titleEn": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "domain": "moddb.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50458849",
+      "source": "hackernews",
+      "titleEn": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "domain": "makepad.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50474883",
+      "source": "hackernews",
+      "titleEn": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50467297",
+      "source": "hackernews",
+      "titleEn": "Our software engineering interviews are changing a little",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "domain": "blog.janestreet.com",
+      "reaction": 4
+    }
+  ]
+}
