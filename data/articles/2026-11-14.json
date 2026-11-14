@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-14",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50489641",
+      "source": "hackernews",
+      "titleEn": "FAA issues national ground stop",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "domain": "nbcnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50474959",
+      "source": "hackernews",
+      "titleEn": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "domain": "scottjg.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50482379",
+      "source": "hackernews",
+      "titleEn": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "domain": "science.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50481187",
+      "source": "hackernews",
+      "titleEn": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "domain": "status.claude.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50486482",
+      "source": "hackernews",
+      "titleEn": "LibreOffice actually works 365 days a year",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50478515",
+      "source": "hackernews",
+      "titleEn": "IceWM",
+      "url": "https://ice-wm.org/",
+      "domain": "ice-wm.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50473190",
+      "source": "hackernews",
+      "titleEn": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50478609",
+      "source": "hackernews",
+      "titleEn": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50477231",
+      "source": "hackernews",
+      "titleEn": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50424581",
+      "source": "hackernews",
+      "titleEn": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "domain": "foldableflight.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50469994",
+      "source": "hackernews",
+      "titleEn": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "domain": "ign.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50429068",
+      "source": "hackernews",
+      "titleEn": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50431058",
+      "source": "hackernews",
+      "titleEn": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "domain": "postalpro.usps.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50427362",
+      "source": "hackernews",
+      "titleEn": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "domain": "payments.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50422069",
+      "source": "hackernews",
+      "titleEn": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50483480",
+      "source": "hackernews",
+      "titleEn": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "domain": "garymarcus.substack.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50419215",
+      "source": "hackernews",
+      "titleEn": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "domain": "shubs.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50426175",
+      "source": "hackernews",
+      "titleEn": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "domain": "anthropocenemagazine.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50431144",
+      "source": "hackernews",
+      "titleEn": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "domain": "artificialanalysis.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50418975",
+      "source": "hackernews",
+      "titleEn": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "domain": "matteoraso.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50490593",
+      "source": "hackernews",
+      "titleEn": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "domain": "orcasairband.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50492315",
+      "source": "hackernews",
+      "titleEn": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "domain": "fox5dc.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50491423",
+      "source": "hackernews",
+      "titleEn": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "domain": "joshka.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50488325",
+      "source": "hackernews",
+      "titleEn": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "domain": "open.m-vave.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50488470",
+      "source": "hackernews",
+      "titleEn": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "domain": "nature.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50487185",
+      "source": "hackernews",
+      "titleEn": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "domain": "haddyalchaer.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50488464",
+      "source": "hackernews",
+      "titleEn": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "domain": "perplexity.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50487228",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "domain": "isometricsf.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50484235",
+      "source": "hackernews",
+      "titleEn": "A technical vision for the Haskell ecosystem",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "domain": "discourse.haskell.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50487605",
+      "source": "hackernews",
+      "titleEn": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "domain": "toninoble.com",
+      "reaction": 4
+    }
+  ]
+}
