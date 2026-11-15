@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-15",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50500963",
+      "source": "hackernews",
+      "titleEn": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "domain": "spacex.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50499017",
+      "source": "hackernews",
+      "titleEn": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "domain": "crissyfield.de",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50440709",
+      "source": "hackernews",
+      "titleEn": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "domain": "so.long.thanks.fish",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50496602",
+      "source": "hackernews",
+      "titleEn": "Tech companies are trying to shift the concept of privacy again",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "domain": "eff.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50497009",
+      "source": "hackernews",
+      "titleEn": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50493904",
+      "source": "hackernews",
+      "titleEn": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "domain": "monkeyisland.pages.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50484658",
+      "source": "hackernews",
+      "titleEn": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "domain": "youtube.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50493251",
+      "source": "hackernews",
+      "titleEn": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50487864",
+      "source": "hackernews",
+      "titleEn": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "domain": "freightwaves.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50487522",
+      "source": "hackernews",
+      "titleEn": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "domain": "reddit.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50481870",
+      "source": "hackernews",
+      "titleEn": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "domain": "theatlantic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50441707",
+      "source": "hackernews",
+      "titleEn": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "domain": "docodethatmatters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50442736",
+      "source": "hackernews",
+      "titleEn": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "domain": "neil.fraser.name",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50445401",
+      "source": "hackernews",
+      "titleEn": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "domain": "theautopian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50439193",
+      "source": "hackernews",
+      "titleEn": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "domain": "deepmind.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50447074",
+      "source": "hackernews",
+      "titleEn": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "domain": "vulncheck.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50436640",
+      "source": "hackernews",
+      "titleEn": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "domain": "strandsagents.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50438318",
+      "source": "hackernews",
+      "titleEn": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "domain": "evanxmerz.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50444129",
+      "source": "hackernews",
+      "titleEn": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "domain": "starlink.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50443824",
+      "source": "hackernews",
+      "titleEn": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "domain": "lwn.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50429426",
+      "source": "hackernews",
+      "titleEn": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50443812",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50439695",
+      "source": "hackernews",
+      "titleEn": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "domain": "ableton.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50433659",
+      "source": "hackernews",
+      "titleEn": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "domain": "notesbylex.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50501594",
+      "source": "hackernews",
+      "titleEn": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "domain": "retrocomputing.stackexchange.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50499038",
+      "source": "hackernews",
+      "titleEn": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "domain": "zwischenzugs.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50496976",
+      "source": "hackernews",
+      "titleEn": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "domain": "tube.kockatoo.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50501631",
+      "source": "hackernews",
+      "titleEn": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "domain": "techspot.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50497892",
+      "source": "hackernews",
+      "titleEn": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "domain": "blog.pypi.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50497589",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "domain": "github.com",
+      "reaction": 4
+    }
+  ]
+}
