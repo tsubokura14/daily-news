@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-16",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50506719",
+      "source": "hackernews",
+      "titleEn": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "domain": "macanorak.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50509411",
+      "source": "hackernews",
+      "titleEn": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "domain": "www1.wdr.de",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50507303",
+      "source": "hackernews",
+      "titleEn": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "domain": "jakub.jankiewicz.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50506180",
+      "source": "hackernews",
+      "titleEn": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50502988",
+      "source": "hackernews",
+      "titleEn": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "domain": "litnews.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50446520",
+      "source": "hackernews",
+      "titleEn": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "domain": "9to5mac.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50450488",
+      "source": "hackernews",
+      "titleEn": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "domain": "discuss.python.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50456631",
+      "source": "hackernews",
+      "titleEn": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50455394",
+      "source": "hackernews",
+      "titleEn": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "domain": "michael.bacarella.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50456791",
+      "source": "hackernews",
+      "titleEn": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "domain": "blog.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50438480",
+      "source": "hackernews",
+      "titleEn": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "domain": "theatlantic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50452455",
+      "source": "hackernews",
+      "titleEn": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "domain": "pietromiotti.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50458900",
+      "source": "hackernews",
+      "titleEn": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "domain": "cbsnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50459321",
+      "source": "hackernews",
+      "titleEn": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50459703",
+      "source": "hackernews",
+      "titleEn": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "domain": "wsj.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50453474",
+      "source": "hackernews",
+      "titleEn": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "domain": "theverge.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50406670",
+      "source": "hackernews",
+      "titleEn": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "domain": "blog.bosscher.ch",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50406111",
+      "source": "hackernews",
+      "titleEn": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "domain": "theguardian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50407882",
+      "source": "hackernews",
+      "titleEn": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "domain": "apiiro.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50511395",
+      "source": "hackernews",
+      "titleEn": "Old Bitly Links Are Being Hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "domain": "ransomnews.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50509837",
+      "source": "hackernews",
+      "titleEn": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "domain": "bruceroettgers.eu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50509308",
+      "source": "hackernews",
+      "titleEn": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "domain": "youtube.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50509023",
+      "source": "hackernews",
+      "titleEn": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "domain": "nytimes.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50509972",
+      "source": "hackernews",
+      "titleEn": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "domain": "ductus.sorenblank.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50463399",
+      "source": "hackernews",
+      "titleEn": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "domain": "youtube.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50506894",
+      "source": "hackernews",
+      "titleEn": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "domain": "prog21.dadgum.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50506376",
+      "source": "hackernews",
+      "titleEn": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "domain": "magazine.sebastianraschka.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50507553",
+      "source": "hackernews",
+      "titleEn": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "domain": "joshblais.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50510042",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "url": "https://news.ycombinator.com/item?id=50510042",
+      "domain": "news.ycombinator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50510442",
+      "source": "hackernews",
+      "titleEn": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "domain": "space.com",
+      "reaction": 4
+    }
+  ]
+}
