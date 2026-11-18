@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-18",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50538240",
+      "source": "hackernews",
+      "titleEn": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "domain": "calif.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50535230",
+      "source": "hackernews",
+      "titleEn": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50534631",
+      "source": "hackernews",
+      "titleEn": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "domain": "ft.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50532849",
+      "source": "hackernews",
+      "titleEn": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "domain": "cnn.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50535238",
+      "source": "hackernews",
+      "titleEn": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "domain": "developer.apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50530163",
+      "source": "hackernews",
+      "titleEn": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50517602",
+      "source": "hackernews",
+      "titleEn": "What is w2rt6byl5nf1opmc-a.com?",
+      "url": "https://jack.cab/blog/siterate",
+      "domain": "jack.cab",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50524767",
+      "source": "hackernews",
+      "titleEn": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "domain": "blog.report-uri.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50532086",
+      "source": "hackernews",
+      "titleEn": "We don't need more apps, we need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "domain": "jordankrueger.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50523459",
+      "source": "hackernews",
+      "titleEn": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "domain": "opencode.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50517321",
+      "source": "hackernews",
+      "titleEn": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "domain": "theregister.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50520182",
+      "source": "hackernews",
+      "titleEn": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "domain": "news.cornell.edu",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50518567",
+      "source": "hackernews",
+      "titleEn": "Nvidia was in trouble before the Jensen Huang mess",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "domain": "wired.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50424581",
+      "source": "hackernews",
+      "titleEn": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "domain": "foldableflight.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50474959",
+      "source": "hackernews",
+      "titleEn": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "domain": "scottjg.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50482379",
+      "source": "hackernews",
+      "titleEn": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "domain": "science.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50491423",
+      "source": "hackernews",
+      "titleEn": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "domain": "joshka.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50481187",
+      "source": "hackernews",
+      "titleEn": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "domain": "status.claude.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50489641",
+      "source": "hackernews",
+      "titleEn": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "domain": "nbcnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50473190",
+      "source": "hackernews",
+      "titleEn": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50429068",
+      "source": "hackernews",
+      "titleEn": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50431058",
+      "source": "hackernews",
+      "titleEn": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "domain": "postalpro.usps.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50478515",
+      "source": "hackernews",
+      "titleEn": "IceWM",
+      "url": "https://ice-wm.org/",
+      "domain": "ice-wm.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50422069",
+      "source": "hackernews",
+      "titleEn": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50427362",
+      "source": "hackernews",
+      "titleEn": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "domain": "payments.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50449748",
+      "source": "hackernews",
+      "titleEn": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "domain": "gatezh.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50540437",
+      "source": "hackernews",
+      "titleEn": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "domain": "consumerrights.wiki",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50540178",
+      "source": "hackernews",
+      "titleEn": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "domain": "revscope.co",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50538994",
+      "source": "hackernews",
+      "titleEn": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "domain": "blog.cloudflare.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50539747",
+      "source": "hackernews",
+      "titleEn": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "domain": "wiki.archiveteam.org",
+      "reaction": 4
+    }
+  ]
+}
