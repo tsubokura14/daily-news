@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-20",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50562754",
+      "source": "hackernews",
+      "titleEn": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50563066",
+      "source": "hackernews",
+      "titleEn": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "domain": "newscientist.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50563148",
+      "source": "hackernews",
+      "titleEn": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50519231",
+      "source": "hackernews",
+      "titleEn": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "domain": "blog.harrison.page",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50562113",
+      "source": "hackernews",
+      "titleEn": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "domain": "macanorak.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50558533",
+      "source": "hackernews",
+      "titleEn": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "domain": "element.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50560822",
+      "source": "hackernews",
+      "titleEn": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "domain": "lastbook.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50557716",
+      "source": "hackernews",
+      "titleEn": "SSD prices may begin to decline in the latter half of 2027",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "domain": "drivevault.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50556287",
+      "source": "hackernews",
+      "titleEn": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "domain": "verialabs.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50562262",
+      "source": "hackernews",
+      "titleEn": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "domain": "ounapuu.ee",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50536813",
+      "source": "hackernews",
+      "titleEn": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "domain": "sciencenorway.no",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50502988",
+      "source": "hackernews",
+      "titleEn": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "domain": "litnews.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50511395",
+      "source": "hackernews",
+      "titleEn": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "domain": "ransomnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50509411",
+      "source": "hackernews",
+      "titleEn": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "domain": "www1.wdr.de",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50446520",
+      "source": "hackernews",
+      "titleEn": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "domain": "9to5mac.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50506719",
+      "source": "hackernews",
+      "titleEn": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "domain": "macanorak.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50463399",
+      "source": "hackernews",
+      "titleEn": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "domain": "youtube.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50450488",
+      "source": "hackernews",
+      "titleEn": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "domain": "discuss.python.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50506180",
+      "source": "hackernews",
+      "titleEn": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50547344",
+      "source": "hackernews",
+      "titleEn": "Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine",
+      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "domain": "yahoo.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50507303",
+      "source": "hackernews",
+      "titleEn": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "domain": "jakub.jankiewicz.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50509023",
+      "source": "hackernews",
+      "titleEn": "Crows make decisions faster than we can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50456631",
+      "source": "hackernews",
+      "titleEn": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50438480",
+      "source": "hackernews",
+      "titleEn": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "domain": "theatlantic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50568130",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "domain": "git-aarvin.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50528119",
+      "source": "hackernews",
+      "titleEn": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "domain": "ocw.mit.edu",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50564159",
+      "source": "hackernews",
+      "titleEn": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "domain": "globalcommercegraph.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50567209",
+      "source": "hackernews",
+      "titleEn": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "domain": "synology.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50558906",
+      "source": "hackernews",
+      "titleEn": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50564366",
+      "source": "hackernews",
+      "titleEn": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "domain": "youtube.com",
+      "reaction": 4
+    }
+  ]
+}
