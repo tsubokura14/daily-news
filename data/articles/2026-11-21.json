@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-21",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50579568",
+      "source": "hackernews",
+      "titleEn": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "domain": "math216.wordpress.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50581260",
+      "source": "hackernews",
+      "titleEn": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "domain": "thinkingmachines.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50574968",
+      "source": "hackernews",
+      "titleEn": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "domain": "alpo.ge",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572348",
+      "source": "hackernews",
+      "titleEn": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "domain": "signal.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572355",
+      "source": "hackernews",
+      "titleEn": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "domain": "kottke.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50576855",
+      "source": "hackernews",
+      "titleEn": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "domain": "poolp.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572503",
+      "source": "hackernews",
+      "titleEn": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "domain": "architectlabs.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50575644",
+      "source": "hackernews",
+      "titleEn": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "domain": "blog.mozilla.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572116",
+      "source": "hackernews",
+      "titleEn": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "domain": "ecohustler.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50569226",
+      "source": "hackernews",
+      "titleEn": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50557661",
+      "source": "hackernews",
+      "titleEn": "Do not buy RAM, compress",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "domain": "curiousbits.nl",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50571189",
+      "source": "hackernews",
+      "titleEn": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "domain": "em-online.bearblog.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50561508",
+      "source": "hackernews",
+      "titleEn": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "domain": "thedataexchange.media",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50522980",
+      "source": "hackernews",
+      "titleEn": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "domain": "cs.cmu.edu",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50570479",
+      "source": "hackernews",
+      "titleEn": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "domain": "grapheneos.social",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50474883",
+      "source": "hackernews",
+      "titleEn": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50523601",
+      "source": "hackernews",
+      "titleEn": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "domain": "bugmenot.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50521045",
+      "source": "hackernews",
+      "titleEn": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "domain": "apnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50519354",
+      "source": "hackernews",
+      "titleEn": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "domain": "trmnl.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50517488",
+      "source": "hackernews",
+      "titleEn": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "domain": "groundworkcollaborative.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50514470",
+      "source": "hackernews",
+      "titleEn": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "domain": "pub.cba.mit.edu",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50513160",
+      "source": "hackernews",
+      "titleEn": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "domain": "iter.ca",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50523025",
+      "source": "hackernews",
+      "titleEn": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "domain": "arstechnica.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50512235",
+      "source": "hackernews",
+      "titleEn": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "domain": "steveblank.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50524736",
+      "source": "hackernews",
+      "titleEn": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "domain": "xusheng.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50513215",
+      "source": "hackernews",
+      "titleEn": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "domain": "qwen.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50467087",
+      "source": "hackernews",
+      "titleEn": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "domain": "apnews.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50472038",
+      "source": "hackernews",
+      "titleEn": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "domain": "blog.rust-lang.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50470488",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50583274",
+      "source": "hackernews",
+      "titleEn": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "domain": "ninlive.com",
+      "reaction": 4
+    }
+  ]
+}
