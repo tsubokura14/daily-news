@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-22",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50582069",
+      "source": "hackernews",
+      "titleEn": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "domain": "theguardian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50589618",
+      "source": "hackernews",
+      "titleEn": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "domain": "leanprover-community.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50532613",
+      "source": "hackernews",
+      "titleEn": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "domain": "gov.br",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50588982",
+      "source": "hackernews",
+      "titleEn": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "domain": "science.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50587875",
+      "source": "hackernews",
+      "titleEn": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "domain": "blog.tymscar.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50583761",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50579331",
+      "source": "hackernews",
+      "titleEn": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "domain": "manidoraisamy.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50578358",
+      "source": "hackernews",
+      "titleEn": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "domain": "terrytao.wordpress.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50576012",
+      "source": "hackernews",
+      "titleEn": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "domain": "slopstrap.mikelacher.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50574383",
+      "source": "hackernews",
+      "titleEn": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "domain": "theguardian.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50577265",
+      "source": "hackernews",
+      "titleEn": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "domain": "arxiv.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50581084",
+      "source": "hackernews",
+      "titleEn": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "domain": "scottaaronson.blog",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50573886",
+      "source": "hackernews",
+      "titleEn": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "domain": "cekrem.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50538240",
+      "source": "hackernews",
+      "titleEn": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "domain": "calif.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50538994",
+      "source": "hackernews",
+      "titleEn": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "domain": "blog.cloudflare.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50577901",
+      "source": "hackernews",
+      "titleEn": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "domain": "motherjones.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50534631",
+      "source": "hackernews",
+      "titleEn": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "domain": "ft.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50530163",
+      "source": "hackernews",
+      "titleEn": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "domain": "nytimes.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50517602",
+      "source": "hackernews",
+      "titleEn": "What is w2rt6byl5nf1opmc-a.com?",
+      "url": "https://jack.cab/blog/siterate",
+      "domain": "jack.cab",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50532849",
+      "source": "hackernews",
+      "titleEn": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "domain": "cnn.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50540178",
+      "source": "hackernews",
+      "titleEn": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "domain": "revscope.co",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50540437",
+      "source": "hackernews",
+      "titleEn": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "domain": "consumerrights.wiki",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50535238",
+      "source": "hackernews",
+      "titleEn": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "domain": "developer.apple.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50524767",
+      "source": "hackernews",
+      "titleEn": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "domain": "blog.report-uri.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50532191",
+      "source": "hackernews",
+      "titleEn": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "domain": "runta.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50424581",
+      "source": "hackernews",
+      "titleEn": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "domain": "foldableflight.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50535230",
+      "source": "hackernews",
+      "titleEn": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50517321",
+      "source": "hackernews",
+      "titleEn": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "domain": "theregister.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50523459",
+      "source": "hackernews",
+      "titleEn": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "domain": "opencode.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50520182",
+      "source": "hackernews",
+      "titleEn": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "domain": "news.cornell.edu",
+      "reaction": 5
+    }
+  ]
+}
