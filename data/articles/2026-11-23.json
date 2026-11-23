@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-23",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50602843",
+      "source": "hackernews",
+      "titleEn": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "domain": "audubon.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50601525",
+      "source": "hackernews",
+      "titleEn": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50602947",
+      "source": "hackernews",
+      "titleEn": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "domain": "oreilly.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50596133",
+      "source": "hackernews",
+      "titleEn": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "domain": "caranddriver.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50597612",
+      "source": "hackernews",
+      "titleEn": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "domain": "betterdatacenterproject.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50594911",
+      "source": "hackernews",
+      "titleEn": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "domain": "stulle.app",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50591853",
+      "source": "hackernews",
+      "titleEn": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50583028",
+      "source": "hackernews",
+      "titleEn": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "domain": "notnottalmud.substack.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50595537",
+      "source": "hackernews",
+      "titleEn": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "domain": "noemamag.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50547374",
+      "source": "hackernews",
+      "titleEn": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "domain": "wiz.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50552424",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "domain": "blog.google",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50544261",
+      "source": "hackernews",
+      "titleEn": "Codeberg.org Not Reachable",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "domain": "social.anoxinon.de",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50547620",
+      "source": "hackernews",
+      "titleEn": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "domain": "inside-db.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50547777",
+      "source": "hackernews",
+      "titleEn": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "domain": "europeanbusinessmagazine.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50548021",
+      "source": "hackernews",
+      "titleEn": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "domain": "microsoft.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50554045",
+      "source": "hackernews",
+      "titleEn": "We need smart people who give a shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "domain": "violetpixel.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50553843",
+      "source": "hackernews",
+      "titleEn": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50546914",
+      "source": "hackernews",
+      "titleEn": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "domain": "cam.ac.uk",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50538303",
+      "source": "hackernews",
+      "titleEn": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "domain": "complexdiscovery.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50545958",
+      "source": "hackernews",
+      "titleEn": "DNS resolvers are the wrong place to fight piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "domain": "techstackups.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50542705",
+      "source": "hackernews",
+      "titleEn": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "domain": "nicolasbouliane.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50603845",
+      "source": "hackernews",
+      "titleEn": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "domain": "gpupartner.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50604988",
+      "source": "hackernews",
+      "titleEn": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "domain": "gl-inet.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50603589",
+      "source": "hackernews",
+      "titleEn": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "domain": "smallsf.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50605045",
+      "source": "hackernews",
+      "titleEn": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "domain": "claude.ai",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50603143",
+      "source": "hackernews",
+      "titleEn": "Assume People Are Not Interested in Your Blog Post",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "domain": "danielsada.tech",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50599762",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50605479",
+      "source": "hackernews",
+      "titleEn": "Nespresso's project to reduce grams of coffee per capsule",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "domain": "alvinbunk.wordpress.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50600511",
+      "source": "hackernews",
+      "titleEn": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "domain": "osw-alliance.net",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50600622",
+      "source": "hackernews",
+      "titleEn": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "domain": "jeffgeerling.com",
+      "reaction": 4
+    }
+  ]
+}
