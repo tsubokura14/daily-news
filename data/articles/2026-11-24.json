@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-24",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50611576",
+      "source": "hackernews",
+      "titleEn": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "domain": "cnbc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50614249",
+      "source": "hackernews",
+      "titleEn": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "domain": "ladybird.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50615308",
+      "source": "hackernews",
+      "titleEn": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50617499",
+      "source": "hackernews",
+      "titleEn": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "domain": "arm.jonpalmisc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50606192",
+      "source": "hackernews",
+      "titleEn": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "domain": "spelunkr.tv",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50609685",
+      "source": "hackernews",
+      "titleEn": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "domain": "z.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50615481",
+      "source": "hackernews",
+      "titleEn": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "domain": "blog.kagi.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50620102",
+      "source": "hackernews",
+      "titleEn": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50607668",
+      "source": "hackernews",
+      "titleEn": "Yes, 17M lines of Lean is a lot",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "domain": "micjm.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50616933",
+      "source": "hackernews",
+      "titleEn": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50612686",
+      "source": "hackernews",
+      "titleEn": "Cyberleek posted the GTA 6 Xbox build executable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "domain": "reddit.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50607261",
+      "source": "hackernews",
+      "titleEn": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50598441",
+      "source": "hackernews",
+      "titleEn": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "domain": "johncarlosbaez.wordpress.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50620822",
+      "source": "hackernews",
+      "titleEn": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "domain": "foreignpolicy.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50563148",
+      "source": "hackernews",
+      "titleEn": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "domain": "anthropic.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50558906",
+      "source": "hackernews",
+      "titleEn": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50556287",
+      "source": "hackernews",
+      "titleEn": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "domain": "verialabs.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50557716",
+      "source": "hackernews",
+      "titleEn": "SSD prices may begin to decline in the latter half of 2027",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "domain": "drivevault.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50563066",
+      "source": "hackernews",
+      "titleEn": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "domain": "newscientist.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50562754",
+      "source": "hackernews",
+      "titleEn": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50564159",
+      "source": "hackernews",
+      "titleEn": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "domain": "globalcommercegraph.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50560822",
+      "source": "hackernews",
+      "titleEn": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "domain": "lastbook.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50558533",
+      "source": "hackernews",
+      "titleEn": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "domain": "element.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50562113",
+      "source": "hackernews",
+      "titleEn": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "domain": "macanorak.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50562262",
+      "source": "hackernews",
+      "titleEn": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "domain": "ounapuu.ee",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50568130",
+      "source": "hackernews",
+      "titleEn": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "domain": "git-aarvin.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50620349",
+      "source": "hackernews",
+      "titleEn": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "domain": "stalw.art",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50619207",
+      "source": "hackernews",
+      "titleEn": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "domain": "bored.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50619103",
+      "source": "hackernews",
+      "titleEn": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50622774",
+      "source": "hackernews",
+      "titleEn": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "domain": "governor.ny.gov",
+      "reaction": 4
+    }
+  ]
+}
