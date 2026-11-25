@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-25",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50627783",
+      "source": "hackernews",
+      "titleEn": "GTA 6 Running on Windows",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50627340",
+      "source": "hackernews",
+      "titleEn": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "domain": "michaelharley.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50622638",
+      "source": "hackernews",
+      "titleEn": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "url": "https://github.com/ItsNotRexed/Leonida/issues",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50624497",
+      "source": "hackernews",
+      "titleEn": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "domain": "fzakaria.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50627836",
+      "source": "hackernews",
+      "titleEn": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "domain": "bloomberg.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50625384",
+      "source": "hackernews",
+      "titleEn": "Quad9 pulled their DNS service from France",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "domain": "quad9.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50610318",
+      "source": "hackernews",
+      "titleEn": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50574968",
+      "source": "hackernews",
+      "titleEn": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "domain": "alpo.ge",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50630309",
+      "source": "hackernews",
+      "titleEn": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "domain": "variety.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50581260",
+      "source": "hackernews",
+      "titleEn": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "domain": "thinkingmachines.ai",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50579568",
+      "source": "hackernews",
+      "titleEn": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "domain": "math216.wordpress.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50575644",
+      "source": "hackernews",
+      "titleEn": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "domain": "blog.mozilla.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572355",
+      "source": "hackernews",
+      "titleEn": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "domain": "kottke.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572503",
+      "source": "hackernews",
+      "titleEn": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "domain": "architectlabs.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572348",
+      "source": "hackernews",
+      "titleEn": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "domain": "signal.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50572116",
+      "source": "hackernews",
+      "titleEn": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "domain": "ecohustler.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50569226",
+      "source": "hackernews",
+      "titleEn": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50571189",
+      "source": "hackernews",
+      "titleEn": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "domain": "em-online.bearblog.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50637220",
+      "source": "hackernews",
+      "titleEn": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50637056",
+      "source": "hackernews",
+      "titleEn": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "domain": "greydanus.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50633922",
+      "source": "hackernews",
+      "titleEn": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "domain": "prismml.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50634658",
+      "source": "hackernews",
+      "titleEn": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "domain": "openai.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50634426",
+      "source": "hackernews",
+      "titleEn": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "domain": "news.ycombinator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50598555",
+      "source": "hackernews",
+      "titleEn": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "domain": "mechanical-pencil.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50630594",
+      "source": "hackernews",
+      "titleEn": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "domain": "greynoise.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50625265",
+      "source": "hackernews",
+      "titleEn": "Gödel Enigma",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "domain": "helsinki.fi",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50609483",
+      "source": "hackernews",
+      "titleEn": "Calculate how many mesh radio nodes your city needs",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "domain": "meshcoveragecalculator.lalala.ing",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50610820",
+      "source": "hackernews",
+      "titleEn": "An Italian folding bicycle design that fits into a suitcase",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "domain": "core77.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50629231",
+      "source": "hackernews",
+      "titleEn": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50635271",
+      "source": "hackernews",
+      "titleEn": "Heart attack and stroke risk detectable decades in advance",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "domain": "ed.ac.uk",
+      "reaction": 4
+    }
+  ]
+}
