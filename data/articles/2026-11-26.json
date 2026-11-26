@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-26",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50646108",
+      "source": "hackernews",
+      "titleEn": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "domain": "scottaaronson.blog",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50644817",
+      "source": "hackernews",
+      "titleEn": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "domain": "1password.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50642086",
+      "source": "hackernews",
+      "titleEn": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50641171",
+      "source": "hackernews",
+      "titleEn": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50639698",
+      "source": "hackernews",
+      "titleEn": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "domain": "iankduncan.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50637890",
+      "source": "hackernews",
+      "titleEn": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "domain": "rida.dev",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50638032",
+      "source": "hackernews",
+      "titleEn": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "domain": "buttons.joshwcomeau.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50643065",
+      "source": "hackernews",
+      "titleEn": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "domain": "reddit.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50630809",
+      "source": "hackernews",
+      "postType": "ask",
+      "titleEn": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50637686",
+      "source": "hackernews",
+      "titleEn": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "domain": "lesswrong.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50637874",
+      "source": "hackernews",
+      "titleEn": "I've been drinking wine in my kitchen",
+      "url": "https://scottaaronson.blog/?p=10362",
+      "domain": "scottaaronson.blog",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50631157",
+      "source": "hackernews",
+      "titleEn": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "domain": "reuters.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50589618",
+      "source": "hackernews",
+      "titleEn": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "domain": "leanprover-community.github.io",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50588982",
+      "source": "hackernews",
+      "titleEn": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "domain": "science.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50648050",
+      "source": "hackernews",
+      "titleEn": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50649864",
+      "source": "hackernews",
+      "titleEn": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "domain": "news.ycombinator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50601280",
+      "source": "hackernews",
+      "titleEn": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "domain": "bjin.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50647181",
+      "source": "hackernews",
+      "titleEn": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "domain": "openwall.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50643129",
+      "source": "hackernews",
+      "titleEn": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "domain": "vox.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50647673",
+      "source": "hackernews",
+      "titleEn": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50647161",
+      "source": "hackernews",
+      "titleEn": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "domain": "opensec.in",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50589784",
+      "source": "hackernews",
+      "titleEn": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "domain": "zydra.sh",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50644980",
+      "source": "hackernews",
+      "titleEn": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50648823",
+      "source": "hackernews",
+      "titleEn": "Jev is probably Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "domain": "modaic.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50642939",
+      "source": "hackernews",
+      "titleEn": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "domain": "s.conao3.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50624446",
+      "source": "hackernews",
+      "titleEn": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "domain": "jayd.ml",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50645074",
+      "source": "hackernews",
+      "titleEn": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "domain": "spectator.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50647158",
+      "source": "hackernews",
+      "titleEn": "72-hour fasting can reset your immune system, USC study shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "domain": "scienceinhand.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50643199",
+      "source": "hackernews",
+      "titleEn": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "domain": "lemire.me",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50638503",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "domain": "gpu-demo-gallery.pages.dev",
+      "reaction": 4
+    }
+  ]
+}
