@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-27",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50660180",
+      "source": "hackernews",
+      "titleEn": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "domain": "janlukas.blog",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50657530",
+      "source": "hackernews",
+      "titleEn": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50653667",
+      "source": "hackernews",
+      "titleEn": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50653477",
+      "source": "hackernews",
+      "titleEn": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "domain": "techstackups.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50655664",
+      "source": "hackernews",
+      "titleEn": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "domain": "news.ycombinator.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50654289",
+      "source": "hackernews",
+      "titleEn": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "domain": "nextcloud.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50652527",
+      "source": "hackernews",
+      "titleEn": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "domain": "micjm.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50651117",
+      "source": "hackernews",
+      "titleEn": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50607849",
+      "source": "hackernews",
+      "titleEn": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "domain": "atilloy.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50605479",
+      "source": "hackernews",
+      "titleEn": "Nespresso's project to reduce grams of coffee per capsule",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "domain": "alvinbunk.wordpress.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50596133",
+      "source": "hackernews",
+      "titleEn": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "domain": "caranddriver.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50603845",
+      "source": "hackernews",
+      "titleEn": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "domain": "gpupartner.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50601525",
+      "source": "hackernews",
+      "titleEn": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "domain": "openai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50602843",
+      "source": "hackernews",
+      "titleEn": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "domain": "audubon.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50597612",
+      "source": "hackernews",
+      "titleEn": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "domain": "betterdatacenterproject.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50602947",
+      "source": "hackernews",
+      "titleEn": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "domain": "oreilly.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50591853",
+      "source": "hackernews",
+      "titleEn": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50594911",
+      "source": "hackernews",
+      "titleEn": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "domain": "stulle.app",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50595537",
+      "source": "hackernews",
+      "titleEn": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "domain": "noemamag.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50600511",
+      "source": "hackernews",
+      "titleEn": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "domain": "osw-alliance.net",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50661646",
+      "source": "hackernews",
+      "titleEn": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "domain": "blog.ktz.me",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50659841",
+      "source": "hackernews",
+      "titleEn": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "domain": "worksinprogress.co",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50657265",
+      "source": "hackernews",
+      "titleEn": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "domain": "devnull.land",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50657645",
+      "source": "hackernews",
+      "titleEn": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "domain": "krebsonsecurity.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50659640",
+      "source": "hackernews",
+      "titleEn": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "domain": "lia.mg",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50658632",
+      "source": "hackernews",
+      "titleEn": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50651099",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
+      "domain": "olumino.app",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50655868",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "domain": "themouseless.dev",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50649040",
+      "source": "hackernews",
+      "titleEn": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "domain": "reclaimthenet.org",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50636931",
+      "source": "hackernews",
+      "titleEn": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "domain": "thereader.mitpress.mit.edu",
+      "reaction": 4
+    }
+  ]
+}
