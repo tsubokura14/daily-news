@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-28",
+  "status": "no-ai",
+  "articles": [
+    {
+      "id": "hn-50643158",
+      "source": "hackernews",
+      "titleEn": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "domain": "generativehistory.substack.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50668145",
+      "source": "hackernews",
+      "titleEn": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "domain": "infohawk.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50670757",
+      "source": "hackernews",
+      "titleEn": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "domain": "neuralnetworksanddeeplearning.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50664325",
+      "source": "hackernews",
+      "titleEn": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50666375",
+      "source": "hackernews",
+      "titleEn": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "domain": "news.sky.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50663595",
+      "source": "hackernews",
+      "titleEn": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "domain": "construct22.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50663089",
+      "source": "hackernews",
+      "titleEn": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "domain": "blainehansen.me",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50611576",
+      "source": "hackernews",
+      "titleEn": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "domain": "cnbc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50614249",
+      "source": "hackernews",
+      "titleEn": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "domain": "ladybird.org",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50620349",
+      "source": "hackernews",
+      "titleEn": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "domain": "stalw.art",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50622774",
+      "source": "hackernews",
+      "titleEn": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "domain": "governor.ny.gov",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50615481",
+      "source": "hackernews",
+      "titleEn": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "domain": "blog.kagi.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50615308",
+      "source": "hackernews",
+      "titleEn": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "domain": "twitter.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50617499",
+      "source": "hackernews",
+      "titleEn": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "domain": "arm.jonpalmisc.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50612686",
+      "source": "hackernews",
+      "titleEn": "Cyberleek posted the GTA 6 Xbox build executable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "domain": "reddit.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50616933",
+      "source": "hackernews",
+      "titleEn": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50620102",
+      "source": "hackernews",
+      "titleEn": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "domain": "github.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50657307",
+      "source": "hackernews",
+      "titleEn": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "domain": "diseasescuredbyai.com",
+      "reaction": 5
+    },
+    {
+      "id": "hn-50672565",
+      "source": "hackernews",
+      "titleEn": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "domain": "research.google",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50673688",
+      "source": "hackernews",
+      "titleEn": "Atari Homebrew Awards Cancelled",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "domain": "forums.atariage.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50657346",
+      "source": "hackernews",
+      "titleEn": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "domain": "localthunk.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50669765",
+      "source": "hackernews",
+      "titleEn": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "domain": "github.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50672008",
+      "source": "hackernews",
+      "titleEn": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "domain": "progrium.github.io",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50662313",
+      "source": "hackernews",
+      "titleEn": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "domain": "citroenet.org.uk",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50667726",
+      "source": "hackernews",
+      "postType": "show",
+      "titleEn": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "domain": "bouncemarket.minhanhday.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50657392",
+      "source": "hackernews",
+      "titleEn": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "domain": "arstechnica.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50672142",
+      "source": "hackernews",
+      "titleEn": "Source Control from Hell",
+      "url": "https://frantic.im/git/",
+      "domain": "frantic.im",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50670855",
+      "source": "hackernews",
+      "titleEn": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "domain": "oag.state.va.us",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50673521",
+      "source": "hackernews",
+      "titleEn": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "domain": "drmahfouz.substack.com",
+      "reaction": 4
+    },
+    {
+      "id": "hn-50667989",
+      "source": "hackernews",
+      "titleEn": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "domain": "cr.yp.to",
+      "reaction": 4
+    }
+  ]
+}
